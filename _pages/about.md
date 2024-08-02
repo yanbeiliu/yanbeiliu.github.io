@@ -1,49 +1,28 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Yanbei Liu"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+This is the homepage of Yanbei Liu, an associate professor in the School of Life Sciences, Tiangong University. Senior member of the China Computer Federation (CCF) and selected candidate for Tianjin’s “131” innovative talent. Research focuses on graph learning, multi-view learning, medical image processing, intelligent healthcare, etc. Published over 40 academic papers in international journals and conferences such as IEEE TMI, IEEE TNNLS, IEEE TBD, Medical Image Analysis, AAAI, and IJCAI. Principal investigator and participant in more than 10 national and Tianjin municipal research projects. Serves as committee member of CCF AI (Chinese Association for Artificial Intelligence and PatternRecognition), and committee member of Medical Image Computing and Computer Assisted Intervention (MICCAI). Also acts as a reviewer for IEEE TNNLS/TKDE/TBD/TMI/TCBB, MedIA, PR, AAAI, IJCAI, MICCAI, and other international journals and conferences.
 
-A data-driven personal website
+Publications
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+* [1] Yanbei Liu, Henan Li, Tao Luo, Changqing Zhang, Zhitao Xiao, Ying Wei, Yaozong Gao, Feng Shi, Fei Shan, Dinggang Shen. Structural attention graph neural network for diagnosis and prediction of COVID-19 severity. IEEE Transaction on Medical Imaging (TMI), 2023, 42(2):557-567. ( SCI一区, TOP期刊, IF=11.037) [(Paper)](https://ieeexplore.ieee.org/abstract/document/9969651) 
+* [2] Yanbei Liu, Lianxi Fan, Xiao Wang, Zhitao Xiao, Shuai Ma, Yanwei Pang, Jerry Chun-Wei Lin. HGBER: Heterogeneous graph neural network via bidirectional encoding representation. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023. (SCI一区, TOP期刊, IF=14.255) 
+* [3] Yanbei Liu, Lianxi Fan, Changqing Zhang, Tao Zhou, Zhitao Xiao, Lei Geng, Dinggang Shen. Incomplete multi-modal representation learning for Alzheimer’s disease diagnosis, Medical Image Analysis (MedIA), 2021, 69: 101953. (SCI一区, Top期刊, IF:11.148) 
+* [4] Yanbei Liu, Jinxin Liu, Zhongqiang Wang, Xiao Wang, Fang Zhang, Zhitao Xiao. Binarized network embedding with community structural information, Information Science, 2022,616: 204-216. (SCI一区, TOP期刊, IF=8.233) 
+* [5]	Yanbei Liu, Shichuan Zhao, Xiao Wang, Lei Geng, Zhitao Xiao, Jerry Chun-Wei Lin. Self-consistent graph neural networks for semi-supervised node classification. IEEE Transaction on Big Data (TBD), 2023. doi: 10.1109/TBDATA.2023.3266590. (SCI二区, IF=4.271) 
+* [6]	Yanbei Liu, Wanjin Shan, Xiao Wang, Zhitao Xiao, Lei Geng, Fang Zhang, Dongdong Du, Yanwei Pang, Cross-scale contrastive triplet networks for graph representation learning, Pattern Recognition, 2024, 145: 109907. (SCI 一区, TOP期刊, IF=8.48) 
+* [7] Yanbei Liu, Yu Zhao, Xiao Wang, Lei Geng, Zhitao Xiao. Multi-Scale subgraph contrastive learning. In Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI), 2023. (CCF-A，人工智能领域顶会) 
+* [8] Yanbei Liu, Xiao Wang, Shu Wu, Zhitao Xiao. Independence promoted graph disentangled networks. In Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI), USA, 2020. (CCF-A，人工智能领域顶会)
+* [9]	Yanbei Liu, Qi Wang, Xiao Wang, Fang Zhang, Lei Geng, Jun Wu, Zhitao Xiao. Community enhanced graph convolutional networks. Pattern Recognition Letters, 2020, 138: 462-468.
+* [10] Zhitao Xiao, Xiaomeng Zhang, Yanbei Liu (通信作者), Lei Geng, Jun Wu, Wen Wang, Fang Zhang. RNN-combined graph convolutional network with multi-feature fusion for tuberculosis cavity segmentation. Signal, Image and Video Processing, 2023:1-7. 
+* [11] Yanbei Liu, Kaihua Liu, Changqing Zhang, Jing Wang, Xiao Wang. Unsupervised feature selection via diversity-induced self-representation, Neurocomputing, 2017, 219: 350-363.
+* [12] Yanbei Liu, Lei Geng, Fang Zhang, Jun Wu, Liang Zhang, Zhitao Xiao. Unsupervised feature selection based on ideal local structure learning, Multimedia Tools and Applications, 2019: 1-15.
+* [13] Yanbei Liu, Kaihua Liu, Changqing Zhang, Xiao Wang, Shaona Wang, Zhitao Xiao. Entropy-based active sparse subspace clustering, Multimedia Tools and Applications, 2018(3):1-17.
+* [14] Fang Zhang, Wen Qin, Yanbei Liu(通信作者), Zhitao Xiao, Jinxin Liu, Qi Wang, Kaihua Liu. A dual-channel convolution neural network for image smoke detection, Multimedia Tools and Applications, 2020:1-17. 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
