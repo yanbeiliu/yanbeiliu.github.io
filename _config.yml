@@ -12,9 +12,9 @@ title                    : "HOME"
 title_separator          : "-"
 name                     : &name "Yanbei Liu"
 description              : &description "Associate professor, Tiangong University"
-url                      : https://DreamBey.github.io
+url                      : https://yanbeiliu.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "DreamBey/DreamBey.github.io"
+repository               : "yanbeiliu/yanbeiliu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "DreamBey"
+  github           : "yanbeiliu"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")        
 
