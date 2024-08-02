@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Contact Information"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+School of Life Sciences, Tiangong University  
+No. 399 Binshui Road, Xiqing District, Tiangong University  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+天津市西青区宾水西道399号 天津工业大学 电子与信息工程学院4A516室  
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Email: liuyanbei@tiangong.edu.cn  
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Other Websites：[(DBLP)](https://dblp.org/search?q=yanbei+liu)[(Google Schlar)](https://scholar.google.com.hk/citations?user=JuNVa_IAAAAJ&hl=zh-CN)
