@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-School of Life Sciences, Tiangong University  
+School of Electronic and Information Engineering, Tiangong University  
 No. 399 Binshui Road, Xiqing District, Tiangong University  
 
 天津市西青区宾水西道399号 天津工业大学 电子与信息工程学院4A516室  
