@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Contact Information"
-permalink: /cv/
+permalink: /contact/
 author_profile: true
 redirect_from:
   - /resume
