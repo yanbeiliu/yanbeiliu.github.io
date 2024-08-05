@@ -16,8 +16,6 @@ He is an Associate Professor at Tiangong University, China. Before that, he rece
 * [01/2023] One paper was accepted by **IEEE**. 
 * [01/2023] One paper was accepted by **IJCAI**.
 * [01/2023] One paper was accepted by **IEEE TMI**.
-*
-* [14] Fang Zhang, Wen Qin, Yanbei Liu(通信作者), Zhitao Xiao, Jinxin Liu, Qi Wang, Kaihua Liu. A dual-channel convolution neural network for image smoke detection, Multimedia Tools and Applications, 2020:1-17. 
 
 Selected Publications
 =====
