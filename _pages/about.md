@@ -9,7 +9,7 @@ redirect_from:
 
 He is an Associate Professor at Tiangong University, China. Before that, he received the Ph.D degree from Tianjin University in Jan. 2017, under the supervision of Prof. Kaihua Liu. After finishing the Ph.D degree, he worked as a postdoc researcher at Tianjin University from Jul. 2020 to Jul. 2022, under the supervision of Prof. Yanwei Pang. His research interests are in graph neural networks, machine learning, and intelligent healthcare. He has published 40 peer reviewed papers in top venues in AI. He is the senior member of the China Computer Federation (CCF) and selected candidate for Tianjin’s “131” innovative talent.
 
-<h3 style="color: #FF0000;">Latest News</h3> 
+<h1 style="color: #FF0000;">Latest News</h1> 
 * [02/2024] One paper was accepted by **PR**.
 * [01/2023] One paper was accepted by **IEEE TBD**.
 * [01/2023] One paper was accepted by **IEEE**. 
