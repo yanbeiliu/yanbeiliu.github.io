@@ -47,17 +47,15 @@ The Thirty-Fourth AAAI Conference on Artificial Intelligence **(AAAI)**, 2020
 Services
 =====
 * **Conference Reviewer**
-======
-AAAI Conference on Artificial Intelligence (AAAI)
-The International Joint Conference on Artificial Intelligence (IJCAI)
-The International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)
+AAAI Conference on Artificial Intelligence (AAAI)  
+The International Joint Conference on Artificial Intelligence (IJCAI)  
+The International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)  
 ACM International Conference on Multimedia (ACM-MM) ...
 * **Journal Reviewer**
-======
-IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
-IEEE Transactions on Knowledge and Data Engineering (TKDE)
-IEEE Transactions on Cybernetics (TCYB)
-IEEE Transactions on Big Data (TBD)
-IEEE Transcations on Image Processing (TIP)
-IEEE Transaction on Medical Imaging (TMI)
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS)  
+IEEE Transactions on Knowledge and Data Engineering (TKDE) 
+IEEE Transactions on Cybernetics (TCYB)  
+IEEE Transactions on Big Data (TBD)  
+IEEE Transcations on Image Processing (TIP)  
+IEEE Transaction on Medical Imaging (TMI)  
 Pattern Recognition (PR) ...
