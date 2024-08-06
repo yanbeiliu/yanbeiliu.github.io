@@ -9,7 +9,8 @@ redirect_from:
 
 He is an Associate Professor at Tiangong University, China. Before that, he received the Ph.D degree from Tianjin University in Jan. 2017, under the supervision of Prof. Kaihua Liu. After finishing the Ph.D degree, he worked as a postdoc researcher at Tianjin University from Jul. 2020 to Jul. 2022, under the supervision of Prof. Yanwei Pang. His research interests are in graph neural networks, machine learning, and intelligent healthcare. He has published 40 peer reviewed papers in top venues in AI. He is the senior member of the China Computer Federation (CCF) and selected candidate for Tianjin’s “131” innovative talent.
 
-<h1 style="color: #FF0000;">Latest News</h1> 
+Latest News
+======
 * [02/2024] One paper was accepted by **PR**.
 * [01/2023] One paper was accepted by **IEEE TBD**.
 * [01/2023] One paper was accepted by **IEEE**. 
@@ -17,7 +18,8 @@ He is an Associate Professor at Tiangong University, China. Before that, he rece
 * [01/2023] One paper was accepted by **IEEE TMI**.
 
 
-<h1 style="color: #000000;">Selected Publications</h1> 
+Selected Publications
+======
 * **HGBER: Heterogeneous graph neural network via bidirectional encoding representation** <br>
 **Yanbei Liu**, Lianxi Fan, Xiao Wang, Zhitao Xiao, Shuai Ma, Yanwei Pang, Jerry Chun-Wei Lin <br>
 IEEE Transactions on Neural Networks and Learning Systems **(TNNLS)**, 2023 <br>
@@ -44,7 +46,8 @@ The Thirty-Fourth AAAI Conference on Artificial Intelligence **(AAAI)**, 2020 <b
 [Paper][Code][Bibtex]
 
 
-<h1 style="color: #000000;">Services</h1> 
+Services
+======
 * **Conference Reviewer** <br>
 AAAI Conference on Artificial Intelligence (AAAI)  
 The International Joint Conference on Artificial Intelligence (IJCAI)  
