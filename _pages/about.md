@@ -17,8 +17,7 @@ He is an Associate Professor at Tiangong University, China. Before that, he rece
 * [01/2023] One paper was accepted by **IEEE TMI**.
 
 
-Selected Publications
------
+<h1 style="color: #000000;">Selected Publications</h1> 
 * **HGBER: Heterogeneous graph neural network via bidirectional encoding representation** <br>
 **Yanbei Liu**, Lianxi Fan, Xiao Wang, Zhitao Xiao, Shuai Ma, Yanwei Pang, Jerry Chun-Wei Lin <br>
 IEEE Transactions on Neural Networks and Learning Systems **(TNNLS)**, 2023 <br>
@@ -45,8 +44,7 @@ The Thirty-Fourth AAAI Conference on Artificial Intelligence **(AAAI)**, 2020 <b
 [Paper][Code][Bibtex]
 
 
-Services
------
+<h1 style="color: #000000;">Services</h1> 
 * **Conference Reviewer** <br>
 AAAI Conference on Artificial Intelligence (AAAI)  
 The International Joint Conference on Artificial Intelligence (IJCAI)  
