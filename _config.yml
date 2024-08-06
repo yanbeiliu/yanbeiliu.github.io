@@ -11,7 +11,7 @@ locale                   : "China"
 title                    : "HOME"
 title_separator          : "-"
 name                     : &name "Yanbei Liu"
-description              : &description "Associate professor, Tiangong University"
+description              : &description "Associate Professor, Tiangong University"
 url                      : https://yanbeiliu.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yanbeiliu/yanbeiliu.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "lyb.png"
   name             : "Yanbei Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Associate professor, Tiangong University"
+  bio              : "Associate Professor, Tiangong University"
   location         : "Tianjin，China"
   employer         : "Tiangong University"
   uri              :  #https://DreamBey.github.io
