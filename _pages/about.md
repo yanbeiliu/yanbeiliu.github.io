@@ -1,21 +1,20 @@
 ---
 permalink: /
-title: ""
+title: "Yanbei Liu (刘彦北)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<h1 style="color: #000000;">Yanbei Liu (刘彦北)</h1>
-He is an Associate Professor at Tiangong University, China. Before that, he received the Ph.D degree from Tianjin University in Jan. 2017, under the supervision of Prof. Kaihua Liu. After finishing the Ph.D degree, he worked as a postdoc researcher at Tianjin University from Jul. 2020 to Jul. 2022, under the supervision of Prof. Yanwei Pang. His research interests are in graph neural networks, machine learning, and intelligent healthcare. He has published 40 peer reviewed papers in top venues in AI. He is the senior member of the China Computer Federation (CCF) and selected candidate for Tianjin’s “131” innovative talent.
+He is an Associate Professor at Tiangong University, China. Before that, he received the Ph.D degree from Tianjin University in Jan. 2017, under the supervision of Prof. Kaihua Liu. After finishing the Ph.D degree, he worked as a postdoc researcher at Tianjin University from Jul. 2020 to Jul. 2022, under the supervision of Prof. Yanwei Pang. His research interests are in graph neural networks, machine learning, and intelligent healthcare. He has published 40 peer reviewed papers in top venues in AI. He is the senior member of the China Computer Federation (CCF) and selected candidate for Tianjin’s “131” innovative talent.  
 
 <h1 style="color: #FF0000;">Latest News</h1>
 * [02/2024] One paper was accepted by **PR**.
 * [01/2023] One paper was accepted by **IEEE TBD**.
 * [01/2023] One paper was accepted by **IEEE**. 
 * [01/2023] One paper was accepted by **IJCAI**.
-* [01/2023] One paper was accepted by **IEEE TMI**.
+* [01/2023] One paper was accepted by **IEEE TMI**.  
 
 
 Selected Publications
@@ -43,7 +42,7 @@ Medical Image Analysis **(MedIA)**, 2021 <br>
 * **Independence promoted graph disentangled networks** <br>
 **Yanbei Liu**, Xiao Wang, Shu Wu, Zhitao Xiao <br>
 The Thirty-Fourth AAAI Conference on Artificial Intelligence **(AAAI)**, 2020 <br>
-[Paper][Code][Bibtex]
+[Paper][Code][Bibtex]  
 
 
 Services
