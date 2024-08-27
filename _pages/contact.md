@@ -17,4 +17,4 @@ No. 399 Binshui Road, Xiqing District, Tiangong University
 
 Email: liuyanbei@tiangong.edu.cn  
 
-Other Websites：[[DBLP]](https://dblp.org/search?q=yanbei+liu)[[Google Schlar]](https://scholar.google.com.hk/citations?user=JuNVa_IAAAAJ&hl=zh-CN)[[Github]](https://github.com/yanbeiliu)
+Other Websites：<a href="files/HGBER_Heterogeneous_Graph_Neural_Network_With_Bidirectional_Encoding_Representation.pdf" style="color: blue;"><font color="BLUE" >[DBLP]</font></a><a href="https://scholar.google.com.hk/citations?user=JuNVa_IAAAAJ&hl=zh-CN" style="color: blue;"><font color="BLUE" >[Google Schlar]</font></a><a href="https://github.com/yanbeiliu" style="color: blue;"><font color="BLUE" >[Github]</font></a>
