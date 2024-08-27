@@ -23,25 +23,31 @@ Selected Publications
 **Yanbei Liu**, Lianxi Fan, Xiao Wang, Zhitao Xiao, Shuai Ma, Yanwei Pang, Jerry Chun-Wei Lin <br>
 IEEE Transactions on Neural Networks and Learning Systems **(TNNLS)**, 2023 <br>
 <a href="files/HGBER_Heterogeneous_Graph_Neural_Network_With_Bidirectional_Encoding_Representation.pdf"><font color="BLUE" >[Paper]</font></a>
-[(Code)](https://github.com/yanbeiliu/AEMVC)[(Bibtex)]
+<a href="https://github.com/yanbeiliu/AEMVC"><font color="BLUE" >[Code]</font></a>
+<a href="https://github.com/yanbeiliu/AEMVC"><font color="BLUE" >[Bibtex]</font></a>
 * **Structural attention graph neural network for diagnosis and prediction of COVID-19 severity** <br>
 **Yanbei Liu**, Henan Li, Tao Luo, Changqing Zhang, Zhitao Xiao, Ying Wei, Yaozong Gao, Feng Shi, Fei Shan, Dinggang Shen <br>
 IEEE Transaction on Medical Imaging **(TMI)**, 2023 <br>
 * **Self-consistent graph neural networks for semi-supervised node classification** <br>
 Yanbei Liu, Shichuan Zhao, Xiao Wang, Lei Geng, Zhitao Xiao, Jerry Chun-Wei Lin <br>
 IEEE Transaction on Big Data **(TBD)**, 2023 <br>
-[(Paper)](files/Self-Consistent_Graph_Neural_Networks_for_Semi-Supervised_Node_Classification.pdf)[(Code)](https://github.com/yanbeiliu/SCGNN)[(Bibtex)]
+<a href="files/Self-Consistent_Graph_Neural_Networks_for_Semi-Supervised_Node_Classification.pdf"><font color="BLUE" >[Paper]</font></a>
+<a href="https://github.com/yanbeiliu/SCGNN"><font color="BLUE" >[Code]</font></a>
+<a href=""><font color="BLUE" >[Bibtex]</font></a>
 * **Cross-scale contrastive triplet networks for graph representation learning** <br>
 **Yanbei Liu**, Wanjin Shan, Xiao Wang, Zhitao Xiao, Lei Geng, Fang Zhang, Dongdong Du, Yanwei Pang <br>
 **Pattern Recognition**, 2024 <br>
-[(Code)](https://github.com/yanbeiliu/CCTN)[(Bibtex)]
+<a href="https://github.com/yanbeiliu/CCTN"><font color="BLUE" >[Code]</font></a>
+<a href=""><font color="BLUE" >[Bibtex]</font></a>
 * **Incomplete multi-modal representation learning for Alzheimer’s disease diagnosis** <br>
 **Yanbei Liu**, Lianxi Fan, Changqing Zhang, Tao Zhou, Zhitao Xiao, Lei Geng, Dinggang Shen <br>
 Medical Image Analysis **(MedIA)**, 2021 <br>
 * **Independence promoted graph disentangled networks** <br>
 **Yanbei Liu**, Xiao Wang, Shu Wu, Zhitao Xiao <br>
 The Thirty-Fourth AAAI Conference on Artificial Intelligence **(AAAI)**, 2020 <br>
-[(Paper)](files/Independence promoted graph disentangled networks.pdf)[(Code)](https://github.com/yanbeiliu/IPGDN)[(Bibtex)]
+<a href="files/Independence promoted graph disentangled networks.pdf"><font color="BLUE" >[Paper]</font></a>
+<a href="https://github.com/yanbeiliu/IPGDN"><font color="BLUE" >[Code]</font></a>
+<a href=""><font color="BLUE" >[Bibtex]</font></a>
 
 Services
 ======
