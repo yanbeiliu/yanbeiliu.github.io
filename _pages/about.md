@@ -24,8 +24,8 @@ Selected Publications
 IEEE Transactions on Neural Networks and Learning Systems **(TNNLS)**, 2023 <br>
 <a href="files/HGBER_Heterogeneous_Graph_Neural_Network_With_Bidirectional_Encoding_Representation.pdf"><font color="BLUE" >[Paper]</font></a>
 <a href="https://github.com/yanbeiliu/AEMVC"><font color="BLUE" >[Code]</font></a>
-<a href="#" class="custom-link" onclick="toggleContent('content0'); return false;"style="color: blue;">[Bibtex]</a>
-<div id="content0" class="hidden-content">
+<a href="#" onclick="toggleContent(content0); return false;" style="color: blue;">[Bibtex]</a>
+<div id="content0" style="display:none;">
    @article{liu2023hgber,<br>
     title={HGBER: Heterogeneous graph neural network with bidirectional encoding representation},<br>
     author={Liu, Yanbei and Fan, Lianxi and Wang, Xiao and Xiao, Zhitao and Ma, Shuai and Pang, Yanwei and Lin, Jerry Chun-Wei},<br>
@@ -35,15 +35,15 @@ IEEE Transactions on Neural Networks and Learning Systems **(TNNLS)**, 2023 <br>
 }
 </div>
 <script>
-function toggleContent(contentId) {
-    var content = document.getElementById(contentId);
-    if (content.style.display === 'none') {
-        content.style.display = 'block';
-    } else {
-        content.style.display = 'none';
-    }
+function toggleContent(content0) {
+  var content = document.getElementById('hidden-content');
+  if (content.style.display === 'none') {
+    content.style.display = 'block';
+  } else {
+    content.style.display = 'none';
+  }
 }
-</script>  
+</script>
 
 * **Structural attention graph neural network for diagnosis and prediction of COVID-19 severity** <br>
 **Yanbei Liu**, Henan Li, Tao Luo, Changqing Zhang, Zhitao Xiao, Ying Wei, Yaozong Gao, Feng Shi, Fei Shan, Dinggang Shen <br>
@@ -53,8 +53,8 @@ Yanbei Liu, Shichuan Zhao, Xiao Wang, Lei Geng, Zhitao Xiao, Jerry Chun-Wei Lin 
 IEEE Transaction on Big Data **(TBD)**, 2023 <br>
 <a href="files/Self-Consistent_Graph_Neural_Networks_for_Semi-Supervised_Node_Classification.pdf"><font color="BLUE" >[Paper]</font></a>
 <a href="https://github.com/yanbeiliu/SCGNN"><font color="BLUE" >[Code]</font></a>
-<a href="#" class="custom-link" onclick="toggleContent('content1'); return false;"style="color: blue;">[Bibtex]</a>
-<div id="content1" class="hidden-content">
+<a href="#" onclick="toggleContent(content1); return false;" style="color: blue;">[Bibtex]</a>
+<div id="content1" style="display:none;">
      @article{liu2023self,
     title={Self-Consistent Graph Neural Networks for Semi-Supervised Node Classification},<br>
     author={Liu, Yanbei and Zhao, Shichuan and Wang, Xiao and Geng, Lei and Xiao, Zhitao and Lin, Jerry Chun-Wei},<br>
@@ -67,22 +67,22 @@ IEEE Transaction on Big Data **(TBD)**, 2023 <br>
 }
 </div>
 <script>
-function toggleContent(contentId) {
-    var content = document.getElementById(contentId);
-    if (content.style.display === 'none') {
-        content.style.display = 'block';
-    } else {
-        content.style.display = 'none';
-    }
+function toggleContent(content1) {
+  var content = document.getElementById('hidden-content');
+  if (content.style.display === 'none') {
+    content.style.display = 'block';
+  } else {
+    content.style.display = 'none';
+  }
 }
-</script>  
+</script>
 
 * **Cross-scale contrastive triplet networks for graph representation learning** <br>
 **Yanbei Liu**, Wanjin Shan, Xiao Wang, Zhitao Xiao, Lei Geng, Fang Zhang, Dongdong Du, Yanwei Pang <br>
 **Pattern Recognition**, 2024 <br>
 <a href="https://github.com/yanbeiliu/CCTN"><font color="BLUE" >[Code]</font></a>
-<a href="#" class="custom-link" onclick="toggleContent('content2'); return false;"style="color: blue;">[Bibtex]</a>
-<div id="content2"  class="hidden-content">
+<a href="#" onclick="toggleContent(content2); return false;" style="color: blue;">[Bibtex]</a>
+<div id="content2" style="display:none;">
   @article{liu2024cross,<br>
     title={Cross-scale contrastive triplet networks for graph representation learning},<br>
     author={Liu, Yanbei and Shan, Wanjin and Wang, Xiao and Xiao, Zhitao and Geng, Lei and Zhang, Fang and Du, Dongdong and Pang, Yanwei},<br>
@@ -94,15 +94,15 @@ function toggleContent(contentId) {
 }
 </div>
 <script>
-function toggleContent(contentId) {
-    var content = document.getElementById(contentId);
-    if (content.style.display === 'none') {
-        content.style.display = 'block';
-    } else {
-        content.style.display = 'none';
-    }
+function toggleContent(content2) {
+  var content = document.getElementById('hidden-content');
+  if (content.style.display === 'none') {
+    content.style.display = 'block';
+  } else {
+    content.style.display = 'none';
+  }
 }
-</script>  
+</script>
 
 * **Incomplete multi-modal representation learning for Alzheimer’s disease diagnosis** <br>
 **Yanbei Liu**, Lianxi Fan, Changqing Zhang, Tao Zhou, Zhitao Xiao, Lei Geng, Dinggang Shen <br>
@@ -112,8 +112,8 @@ Medical Image Analysis **(MedIA)**, 2021 <br>
 The Thirty-Fourth AAAI Conference on Artificial Intelligence **(AAAI)**, 2020 <br>
 <a href="files/Independence promoted graph disentangled networks.pdf"><font color="BLUE" >[Paper]</font></a>
 <a href="https://github.com/yanbeiliu/IPGDN"><font color="BLUE" >[Code]</font></a>
-<a href="#" class="custom-link" onclick="toggleContent('content3'); return false;"style="color: blue;">[Bibtex]</a>
-<div id="content3"  class="hidden-content">
+<a href="#" onclick="toggleContent(content3); return false;" style="color: blue;">[Bibtex]</a>
+<div id="content3" style="display:none;">
  @inproceedings{liu2020independence,<br>
     title={Independence promoted graph disentangled networks},<br>
     author={Liu, Yanbei and Wang, Xiao and Wu, Shu and Xiao, Zhitao},<br>
@@ -125,16 +125,15 @@ The Thirty-Fourth AAAI Conference on Artificial Intelligence **(AAAI)**, 2020 <b
 }
 </div>
 <script>
-function toggleContent(contentId) {
-    var content = document.getElementById(contentId);
-    if (content.style.display === 'none') {
-        content.style.display = 'block';
-    } else {
-        content.style.display = 'none';
-    }
+function toggleContent(content3) {
+  var content = document.getElementById('hidden-content');
+  if (content.style.display === 'none') {
+    content.style.display = 'block';
+  } else {
+    content.style.display = 'none';
+  }
 }
 </script>
-
 Services
 ======
 * **Conference Reviewer** <br>
