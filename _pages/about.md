@@ -26,7 +26,6 @@ IEEE Transactions on Neural Networks and Learning Systems **(TNNLS)**, 2023 <br>
 <a href="https://github.com/yanbeiliu/AEMVC"><font color="BLUE" >[Code]</font></a>
 <a href="#" class="custom-link" onclick="toggleContent('content0'); return false;"style="color: blue;">[Bibtex]</a>
 <div id="content0" class="hidden-content">
-  <pre>
    @article{liu2023hgber,<br>
     title={HGBER: Heterogeneous graph neural network with bidirectional encoding representation},<br>
     author={Liu, Yanbei and Fan, Lianxi and Wang, Xiao and Xiao, Zhitao and Ma, Shuai and Pang, Yanwei and Lin, Jerry Chun-Wei},<br>
@@ -34,7 +33,7 @@ IEEE Transactions on Neural Networks and Learning Systems **(TNNLS)**, 2023 <br>
     year={2023},<br>
     publisher={IEEE}<br>  
 }
-</pre></div>
+</div>
 <script>
 function toggleContent(contentId) {
     var content = document.getElementById(contentId);
