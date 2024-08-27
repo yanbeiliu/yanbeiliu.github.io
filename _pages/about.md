@@ -22,27 +22,25 @@ Selected Publications
 * **HGBER: Heterogeneous graph neural network via bidirectional encoding representation** <br>
 **Yanbei Liu**, Lianxi Fan, Xiao Wang, Zhitao Xiao, Shuai Ma, Yanwei Pang, Jerry Chun-Wei Lin <br>
 IEEE Transactions on Neural Networks and Learning Systems **(TNNLS)**, 2023 <br>
-[Paper][Code][Bibtex]
+[(Paper)](files/HGBER_Heterogeneous_Graph_Neural_Network_With_Bidirectional_Encoding_Representation.pdf)[(Code)](https://github.com/yanbeiliu/AEMVC)[(Bibtex)](https://scholar.googleusercontent.com/scholar.bib?q=info:uuvFNGzqo1YJ:scholar.google.com/&output=citation&scisdr=ClGn-P5wEJ3t0ntF-e0:AFWwaeYAAAAAZs1D4e3d_qEX5GM_VTLuF-J2cu0&scisig=AFWwaeYAAAAAZs1D4VZ5kgh3YSabVUOZgzL_ABo&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 * **Structural attention graph neural network for diagnosis and prediction of COVID-19 severity** <br>
 **Yanbei Liu**, Henan Li, Tao Luo, Changqing Zhang, Zhitao Xiao, Ying Wei, Yaozong Gao, Feng Shi, Fei Shan, Dinggang Shen <br>
 IEEE Transaction on Medical Imaging **(TMI)**, 2023 <br>
-[Paper][Code][Bibtex]
 * **Self-consistent graph neural networks for semi-supervised node classification** <br>
 Yanbei Liu, Shichuan Zhao, Xiao Wang, Lei Geng, Zhitao Xiao, Jerry Chun-Wei Lin <br>
 IEEE Transaction on Big Data **(TBD)**, 2023 <br>
-[Paper][Code][Bibtex]
+[(Paper)](yanbeiliu.github.io/files/Self-Consistent_Graph_Neural_Networks_for_Semi-Supervised_Node_Classification.pdf)[Code](https://github.com/yanbeiliu/SCGNN)[(Bibtex)](https://scholar.googleusercontent.com/scholar.bib?q=info:qfzOodqnxE4J:scholar.google.com/&output=citation&scisdr=ClGn-P5wEJ3t0ns8lII:AFWwaeYAAAAAZs06jILMEHcb6HwYXwJg7Njaizk&scisig=AFWwaeYAAAAAZs06jHPS09NU2ybz37-6KUMXy18&scisf=4&ct=citation&cd=-1&hl=zh-CN)(https://scholar.googleusercontent.com/scholar.bib?q=info:qfzOodqnxE4J:scholar.google.com/&output=citation&scisdr=ClGn-P5wEJ3t0ns8228:AFWwaeYAAAAAZs06w28FU4SrxML_R5ldxjBDYdE&scisig=AFWwaeYAAAAAZs06wzKYMWLgTnByJgsIg289lks&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 * **Cross-scale contrastive triplet networks for graph representation learning** <br>
 **Yanbei Liu**, Wanjin Shan, Xiao Wang, Zhitao Xiao, Lei Geng, Fang Zhang, Dongdong Du, Yanwei Pang <br>
 **Pattern Recognition**, 2024 <br>
-[Paper][Code][Bibtex]
+[(Code)](https://github.com/yanbeiliu/CCTN)[(Bibtex)](https://scholar.googleusercontent.com/scholar.bib?q=info:A3GthMw_FzgJ:scholar.google.com/&output=citation&scisdr=ClGn-P5wEJ3t0ns7fRU:AFWwaeYAAAAAZs09ZRUgVpXhIq85PTZZknNGl7E&scisig=AFWwaeYAAAAAZs09ZV4FsKustJlyhrkzgs5SGP8&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 * **Incomplete multi-modal representation learning for Alzheimer’s disease diagnosis** <br>
 **Yanbei Liu**, Lianxi Fan, Changqing Zhang, Tao Zhou, Zhitao Xiao, Lei Geng, Dinggang Shen <br>
 Medical Image Analysis **(MedIA)**, 2021 <br>
-[Paper][Code][Bibtex]
 * **Independence promoted graph disentangled networks** <br>
 **Yanbei Liu**, Xiao Wang, Shu Wu, Zhitao Xiao <br>
 The Thirty-Fourth AAAI Conference on Artificial Intelligence **(AAAI)**, 2020 <br>
-[Paper][Code][Bibtex]  
+[(Paper)](yanbeiliu.github.io/files/Independence promoted graph disentangled networks.pdf)[(Code)](https://github.com/yanbeiliu/IPGDN)[(Bibtex)](https://scholar.googleusercontent.com/scholar.bibq=info:1kic6AydchwJ:scholar.google.com/&output=citation&scisdr=ClGnP5wEJ3t0ns_fDc:AFWwaeYAAAAAZs05ZDdCc3lrUVkW4hssxwSxUms&scisig=AFWwaeYAAAAAZs05ZJmIryGsWaHvSwaegAdeYUw&scisf=4&ct=citation&cd=-1&hl=zh-CN)  
 
 
 Services
