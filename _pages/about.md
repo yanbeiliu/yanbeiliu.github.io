@@ -24,26 +24,17 @@ Selected Publications
 IEEE Transactions on Neural Networks and Learning Systems **(TNNLS)**, 2023 <br>
 <a href="files/HGBER_Heterogeneous_Graph_Neural_Network_With_Bidirectional_Encoding_Representation.pdf"><font color="BLUE" >[Paper]</font></a>
 <a href="https://github.com/yanbeiliu/AEMVC"><font color="BLUE" >[Code]</font></a>
-<a href="#" onclick="toggleContent(); return false;" style="color: blue;">[Bibtex]</a>
-<div id="liu2023hgber" style="display:none;">
-  @article{liu2023hgber,<br>
+<a href="javascript:toggleBibtex('liu2023hgber')"  target=_self><font color="blue" >[Bibtex]</font></a>
+<div id=liu2023hgber class=blockcontent style="DISPLAY: none">
+<pre>
+ @article{liu2023hgber,<br>
     title={HGBER: Heterogeneous graph neural network with bidirectional encoding representation},<br>
     author={Liu, Yanbei and Fan, Lianxi and Wang, Xiao and Xiao, Zhitao and Ma, Shuai and Pang, Yanwei and Lin, Jerry Chun-Wei},<br>
     journal={IEEE Transactions on Neural Networks and Learning Systems},<br>
     year={2023},<br>
     publisher={IEEE}<br>
 }
-</div>
-<script>
-function toggleContent() {
-  var content = document.getElementById('liu2023hgber');
-  if (content.style.display === 'none') {
-    content.style.display = 'block';
-  } else {
-    content.style.display = 'none';
-  }
-}
-</script>
+</pre></div>
 * **Structural attention graph neural network for diagnosis and prediction of COVID-19 severity** <br>
 **Yanbei Liu**, Henan Li, Tao Luo, Changqing Zhang, Zhitao Xiao, Ying Wei, Yaozong Gao, Feng Shi, Fei Shan, Dinggang Shen <br>
 IEEE Transaction on Medical Imaging **(TMI)**, 2023 <br>
