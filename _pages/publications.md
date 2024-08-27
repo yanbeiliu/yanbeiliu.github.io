@@ -4,19 +4,18 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-* <u>Yanbei Liu</u>, Lianxi Fan, Xiao Wang, Zhitao Xiao, Shuai Ma, Yanwei Pang, Jerry Chun-Wei Lin. HGBER: Heterogeneous graph neural network via bidirectional encoding representation. IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2023. (<font color='BLUE'> SCI 一区, TOP期刊, IF=14.255 </font>)
+* <u>Yanbei Liu</u>, Lianxi Fan, Xiao Wang, Zhitao Xiao, Shuai Ma, Yanwei Pang, Jerry Chun-Wei Lin. HGBER: Heterogeneous graph neural network via bidirectional encoding representation. IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2023. (<font color='BLUE'> SCI 一区, TOP期刊, IF=14.255 </font>)<a href="files/HGBER_Heterogeneous_Graph_Neural_Network_With_Bidirectional_Encoding_Representation.pdf" style="color: blue;"><font color="BLUE" >[Paper]</font></a>
+<a href="https://github.com/yanbeiliu/AEMVC" style="color: blue;"><font color="BLUE" >[Code]</font></a>
 * <u>Yanbei Liu</u>, Henan Li, Tao Luo, Changqing Zhang, Zhitao Xiao, Ying Wei, Yaozong Gao, Feng Shi, Fei Shan, Dinggang Shen. Structural attention graph neural network for diagnosis and prediction of COVID-19 severity. IEEE Transaction on Medical Imaging(**TMI**), 2022, 42(2):557-567.(<font color='BLUE'> SCI 一区, TOP期刊, IF=11.037 </font>) 
 * <u>Yanbei Liu</u>, Lianxi Fan, Changqing Zhang, Tao Zhou, Zhitao Xiao, Lei Geng, Dinggang Shen*. Incomplete multi-modal representation learning for Alzheimer’s disease diagnosis. Medical Image Analysis (**MedIA**), 2021,69: 101953. (<font color='BLUE'> SCI一区, Top期刊, IF:11.148 </font>)
-* <u>Yanbei Liu</u>, Wanjin Shan, Xiao Wang, Zhitao Xiao, Lei Geng, Fang Zhang, Dongdong Du, Yanwei Pang. Cross-scale contrastive triplet networks for graph representation learning. **Pattern Recognition**, 2024, 145: 109907. (<font color='BLUE'> SCI 一区, TOP期刊, IF=8.48 </font>) 
-* <u>Yanbei Liu</u>, Shichuan Zhao, Xiao Wang, Lei Geng, Zhitao Xiao, Jerry Chun-Wei Lin. Self-consistent graph neural networks for semi-supervised node classification. IEEE Transaction on Big Data (**TBD**), 2023, 9(4):1186-1197. (<font color='BLUE'> Q1, IF=7.21 </font>)
+* <u>Yanbei Liu</u>, Wanjin Shan, Xiao Wang, Zhitao Xiao, Lei Geng, Fang Zhang, Dongdong Du, Yanwei Pang. Cross-scale contrastive triplet networks for graph representation learning. **Pattern Recognition**, 2024, 145: 109907. (<font color='BLUE'> SCI 一区, TOP期刊, IF=8.48 </font>)<a href="https://github.com/yanbeiliu/CCTN" style="color: blue;"><font color="BLUE" >[Code]</font></a> 
+* <u>Yanbei Liu</u>, Shichuan Zhao, Xiao Wang, Lei Geng, Zhitao Xiao, Jerry Chun-Wei Lin. Self-consistent graph neural networks for semi-supervised node classification. IEEE Transaction on Big Data (**TBD**), 2023, 9(4):1186-1197. (<font color='BLUE'> Q1, IF=7.21 </font>)<a href="files/Self-Consistent_Graph_Neural_Networks_for_Semi-Supervised_Node_Classification.pdf" style="color: blue;"><font color="BLUE" >[Paper]</font></a>
+<a href="https://github.com/yanbeiliu/SCGNN" style="color: blue;"><font color="BLUE" >[Code]</font></a>
 * <u>Yanbei Liu</u>, Jinxin Liu, Zhongqiang Wang, Xiao Wang, Fang Zhang, Zhitao Xiao. Binarized network embedding with community structural information. **Information Science**, 2022,616: 204-216. (<font color='BLUE'> SCI 一区, TOP期刊, IF=8.233 </font>)  
-* <u>Yanbei Liu</u>, Yu Zhao, Xiao Wang, Lei Geng, Zhitao Xiao. Multi-Scale subgraph contrastive learning. In Proceedings of the International Joint Conference on Artificial Intelligence (**IJCAI**), 2023. (<font color='BLUE'> CCF-A会议 </font>)
-* <u>Yanbei Liu</u>, Xiao Wang, Shu Wu, Zhitao Xiao. Independence promoted graph disentangled networks. In Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence (**AAAI**), 2020.(<font color='BLUE'> CCF-A会议 </font>)
+* <u>Yanbei Liu</u>, Yu Zhao, Xiao Wang, Lei Geng, Zhitao Xiao. Multi-Scale subgraph contrastive learning. In Proceedings of the International Joint Conference on Artificial Intelligence (**IJCAI**), 2023. (<font color='BLUE'> CCF-A会议 </font>)<a href="files/Multi-Scale Subgraph Contrastive Learning.pdf" style="color: blue;"><font color="BLUE" >[Paper]</font></a>
+<a href="https://github.com/ZhaoYuTJPU/MSSGCL" style="color: blue;"><font color="BLUE" >[Code]</font></a>
+* <u>Yanbei Liu</u>, Xiao Wang, Shu Wu, Zhitao Xiao. Independence promoted graph disentangled networks. In Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence (**AAAI**), 2020.(<font color='BLUE'> CCF-A会议 </font>)<a href="files/Independence promoted graph disentangled networks.pdf" style="color: blue;"><font color="BLUE" >[Paper]</font></a>
+<a href="https://github.com/yanbeiliu/IPGDN" style="color: blue;"><font color="BLUE" >[Code]</font></a>
 * <u>Yanbei Liu</u>, Kaihua Liu, Changqing Zhang, Jing Wang, Xiao Wang. Unsupervised feature selection via diversity-induced self-representation. **Neurocomputing**, 2017, 219: 350-363.
 * <u>Yanbei Liu</u>, Qi Wang, Xiao Wang, Fang Zhang, Lei Geng, Jun Wu, Zhitao Xiao. Community enhanced graph convolutional networks. Pattern Recognition Letters (**PRL**), 2020, 138: 462-468.
 * <u>Yanbei Liu</u>, Lei Geng, Fang Zhang, Jun Wu, Liang Zhang, Zhitao Xiao. Unsupervised feature selection based on ideal local structure learning. Multimedia Tools and Applications, 2019: 1-15.
