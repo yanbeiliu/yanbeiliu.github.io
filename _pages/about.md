@@ -24,17 +24,28 @@ Selected Publications
 IEEE Transactions on Neural Networks and Learning Systems **(TNNLS)**, 2023 <br>
 <a href="files/HGBER_Heterogeneous_Graph_Neural_Network_With_Bidirectional_Encoding_Representation.pdf"><font color="BLUE" >[Paper]</font></a>
 <a href="https://github.com/yanbeiliu/AEMVC"><font color="BLUE" >[Code]</font></a>
-<a href="javascript:toggleBibtex('liu2023hgber')"  target=_self><font color="blue" >[Bibtex]</font></a>
-<div id=liu2023hgber class=blockcontent style="DISPLAY: none">
-<pre>
- @article{liu2023hgber,<br>
+<a href="#" class="custom-link" onclick="toggleContent('content0'); return false;"style="color: blue;">[Bibtex]</a>
+<div id="content0" class="hidden-content">
+  <pre>
+   @article{liu2023hgber,<br>
     title={HGBER: Heterogeneous graph neural network with bidirectional encoding representation},<br>
     author={Liu, Yanbei and Fan, Lianxi and Wang, Xiao and Xiao, Zhitao and Ma, Shuai and Pang, Yanwei and Lin, Jerry Chun-Wei},<br>
     journal={IEEE Transactions on Neural Networks and Learning Systems},<br>
     year={2023},<br>
-    publisher={IEEE}<br>
+    publisher={IEEE}<br>  
 }
 </pre></div>
+<script>
+function toggleContent(contentId) {
+    var content = document.getElementById(contentId);
+    if (content.style.display === 'none') {
+        content.style.display = 'block';
+    } else {
+        content.style.display = 'none';
+    }
+}
+</script>  
+
 * **Structural attention graph neural network for diagnosis and prediction of COVID-19 severity** <br>
 **Yanbei Liu**, Henan Li, Tao Luo, Changqing Zhang, Zhitao Xiao, Ying Wei, Yaozong Gao, Feng Shi, Fei Shan, Dinggang Shen <br>
 IEEE Transaction on Medical Imaging **(TMI)**, 2023 <br>
@@ -56,6 +67,17 @@ IEEE Transaction on Big Data **(TBD)**, 2023 <br>
     publisher={IEEE}<br>
 }
 </div>
+<script>
+function toggleContent(contentId) {
+    var content = document.getElementById(contentId);
+    if (content.style.display === 'none') {
+        content.style.display = 'block';
+    } else {
+        content.style.display = 'none';
+    }
+}
+</script>  
+
 * **Cross-scale contrastive triplet networks for graph representation learning** <br>
 **Yanbei Liu**, Wanjin Shan, Xiao Wang, Zhitao Xiao, Lei Geng, Fang Zhang, Dongdong Du, Yanwei Pang <br>
 **Pattern Recognition**, 2024 <br>
@@ -72,6 +94,16 @@ IEEE Transaction on Big Data **(TBD)**, 2023 <br>
     publisher={Elsevier}<br>
 }
 </div>
+<script>
+function toggleContent(contentId) {
+    var content = document.getElementById(contentId);
+    if (content.style.display === 'none') {
+        content.style.display = 'block';
+    } else {
+        content.style.display = 'none';
+    }
+}
+</script>  
 
 * **Incomplete multi-modal representation learning for Alzheimer’s disease diagnosis** <br>
 **Yanbei Liu**, Lianxi Fan, Changqing Zhang, Tao Zhou, Zhitao Xiao, Lei Geng, Dinggang Shen <br>
