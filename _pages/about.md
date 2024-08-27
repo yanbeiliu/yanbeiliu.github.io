@@ -22,8 +22,8 @@ Selected Publications
 * **HGBER: Heterogeneous graph neural network via bidirectional encoding representation** <br>
 **Yanbei Liu**, Lianxi Fan, Xiao Wang, Zhitao Xiao, Shuai Ma, Yanwei Pang, Jerry Chun-Wei Lin <br>
 IEEE Transactions on Neural Networks and Learning Systems **(TNNLS)**, 2023 <br>
-<a href="files/HGBER_Heterogeneous_Graph_Neural_Network_With_Bidirectional_Encoding_Representation.pdf" style="color: ＃0000FF;">[Paper]</a>
-[(Paper)](files/HGBER_Heterogeneous_Graph_Neural_Network_With_Bidirectional_Encoding_Representation.pdf)[(Code)](https://github.com/yanbeiliu/AEMVC)[(Bibtex)]
+<a href="files/HGBER_Heterogeneous_Graph_Neural_Network_With_Bidirectional_Encoding_Representation.pdf"><font color="BLUE" >[Paper]</font></a>
+[(Code)](https://github.com/yanbeiliu/AEMVC)[(Bibtex)]
 * **Structural attention graph neural network for diagnosis and prediction of COVID-19 severity** <br>
 **Yanbei Liu**, Henan Li, Tao Luo, Changqing Zhang, Zhitao Xiao, Ying Wei, Yaozong Gao, Feng Shi, Fei Shan, Dinggang Shen <br>
 IEEE Transaction on Medical Imaging **(TMI)**, 2023 <br>
