@@ -25,6 +25,36 @@ Selected Publications
 IEEE Transactions on Neural Networks and Learning Systems **(TNNLS)**, 2023 <br>
 <a href="files/HGBER_Heterogeneous_Graph_Neural_Network_With_Bidirectional_Encoding_Representation.pdf" style="color: blue;"><font color="BLUE" >[Paper]</font></a>
 <a href="https://github.com/yanbeiliu/AEMVC" style="color: blue;"><font color="BLUE" >[Code]</font></a>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .custom-link {
+            color: blue;
+            text-decoration: none; /* 去掉下划线 */
+        }
+        .custom-link:hover {
+            text-decoration: underline; /* 悬停时显示下划线 */
+        }
+        .hidden-content {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+
+<a href="#" class="custom-link" onclick="toggleContent('content1'); return false;">[Bibtex]</a>
+<div id="content1" class="hidden-content">
+    @article{liu2023hgber,<br>
+      title={HGBER: Heterogeneous graph neural network with bidirectional encoding representation},<br>
+      author={Liu, Yanbei and Fan, Lianxi and Wang, Xiao and Xiao, Zhitao and Ma, Shuai and Pang, Yanwei and Lin, Jerry Chun-Wei},<br>
+      journal={IEEE Transactions on Neural Networks and Learning Systems},<br>
+      year={2023},<br>
+      publisher={IEEE}<br>
+}
+</div>
+
 * **Structural attention graph neural network for diagnosis and prediction of COVID-19 severity** <br>
 **Yanbei Liu**, Henan Li, Tao Luo, Changqing Zhang, Zhitao Xiao, Ying Wei, Yaozong Gao, Feng Shi, Fei Shan, Dinggang Shen <br>
 IEEE Transaction on Medical Imaging **(TMI)**, 2023 <br>
@@ -33,10 +63,36 @@ Yanbei Liu, Shichuan Zhao, Xiao Wang, Lei Geng, Zhitao Xiao, Jerry Chun-Wei Lin 
 IEEE Transaction on Big Data **(TBD)**, 2023 <br>
 <a href="files/Self-Consistent_Graph_Neural_Networks_for_Semi-Supervised_Node_Classification.pdf" style="color: blue;"><font color="BLUE" >[Paper]</font></a>
 <a href="https://github.com/yanbeiliu/SCGNN" style="color: blue;"><font color="BLUE" >[Code]</font></a>
+<a href="#" class="custom-link" onclick="toggleContent('liu2023self'); return false;">[Bibtex]</a>
+<div id="liu2023self" class="hidden-content">
+    @article{liu2023self,
+      title={Self-Consistent Graph Neural Networks for Semi-Supervised Node Classification},<br>
+      author={Liu, Yanbei and Zhao, Shichuan and Wang, Xiao and Geng, Lei and Xiao, Zhitao and Lin, Jerry Chun-Wei},<br>
+      journal={IEEE Transactions on Big Data},<br>
+      volume={9},<br>
+      number={4},<br>
+      pages={1186--1197},<br>
+      year={2023},<br>
+      publisher={IEEE}<br>
+}
+</div> 
+
 * **Cross-scale contrastive triplet networks for graph representation learning** <br>
 **Yanbei Liu**, Wanjin Shan, Xiao Wang, Zhitao Xiao, Lei Geng, Fang Zhang, Dongdong Du, Yanwei Pang <br>
 **Pattern Recognition**, 2024 <br>
 <a href="https://github.com/yanbeiliu/CCTN" style="color: blue;"><font color="BLUE" >[Code]</font></a>
+<a href="#" class="custom-link" onclick="toggleContent('liu2024cross'); return false;">[Bibtex]</a>
+<div id="liu2024cross" class="hidden-content">
+    @article{liu2024cross,<br>
+    title={Cross-scale contrastive triplet networks for graph representation learning},<br>
+    author={Liu, Yanbei and Shan, Wanjin and Wang, Xiao and Xiao, Zhitao and Geng, Lei and Zhang, Fang and Du, Dongdong and Pang, Yanwei},<br>
+    journal={Pattern Recognition},<br>
+    volume={145},<br>
+    pages={109907},<br>
+    year={2024},<br>
+    publisher={Elsevier}<br>
+}
+  
 * **Incomplete multi-modal representation learning for Alzheimer’s disease diagnosis** <br>
 **Yanbei Liu**, Lianxi Fan, Changqing Zhang, Tao Zhou, Zhitao Xiao, Lei Geng, Dinggang Shen <br>
 Medical Image Analysis **(MedIA)**, 2021 <br>
@@ -45,6 +101,17 @@ Medical Image Analysis **(MedIA)**, 2021 <br>
 The Thirty-Fourth AAAI Conference on Artificial Intelligence **(AAAI)**, 2020 <br>
 <a href="files/Independence promoted graph disentangled networks.pdf" style="color: blue;"><font color="BLUE" >[Paper]</font></a>
 <a href="https://github.com/yanbeiliu/IPGDN" style="color: blue;"><font color="BLUE" >[Code]</font></a>
+<a href="#" class="custom-link" onclick="toggleContent('liu2020independence'); return false;">[Bibtex]</a>
+<div id="liu2020independence" class="hidden-content">
+    @inproceedings{liu2020independence,<br>
+    title={Independence promoted graph disentangled networks},<br>
+    author={Liu, Yanbei and Wang, Xiao and Wu, Shu and Xiao, Zhitao},<br>
+    booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},<br>
+    volume={34},<br>
+    number={04},<br>
+    pages={4916--4923},<br>
+    year={2020}<br>
+}
 
 Services
 ======
