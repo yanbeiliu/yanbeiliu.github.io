@@ -52,7 +52,7 @@ function toggleContent(contentId) {
 <ul> <li><b>HGBER: Heterogeneous graph neural network via bidirectional encoding representation</b> <br>
 <b>Yanbei Liu</b>, Lianxi Fan, Xiao Wang, Zhitao Xiao, Shuai Ma, Yanwei Pang, Jerry Chun-Wei Lin <br>
 IEEE Transactions on Neural Networks and Learning Systems <b>(TNNLS)</b>, 2023 
-</li></ul>
+
 <a href="files/HGBER_Heterogeneous_Graph_Neural_Network_With_Bidirectional_Encoding_Representation.pdf" style="color: blue;"><font color="BLUE" >[Paper]</font></a>
 <a href="https://github.com/yanbeiliu/AEMVC" style="color: blue;"><font color="BLUE" >[Code]</font></a>
 <a href="#" class="custom-link" onclick="toggleContent('content1'); return false;">[Bibtex]<br></a>
@@ -66,7 +66,7 @@ IEEE Transactions on Neural Networks and Learning Systems <b>(TNNLS)</b>, 2023
       publisher={IEEE}
 }
     </pre></div>  
-
+</li></ul>
 
 <ul> <li><b>Structural attention graph neural network for diagnosis and prediction of COVID-19 severity</b> <br>
 <b>Yanbei Liu</b>, Henan Li, Tao Luo, Changqing Zhang, Zhitao Xiao, Ying Wei, Yaozong Gao, Feng Shi, Fei Shan, Dinggang Shen <br>
@@ -77,7 +77,7 @@ IEEE Transaction on Medical Imaging <b>(TMI)</b>, 2023 <br>
 <ul> <li><b>Self-consistent graph neural networks for semi-supervised node classification</b> <br>
 Yanbei Liu, Shichuan Zhao, Xiao Wang, Lei Geng, Zhitao Xiao, Jerry Chun-Wei Lin <br>
 IEEE Transaction on Big Data <b>(TBD)</b>, 2023 <br>
- </li></ul> 
+
 <a href="files/Self-Consistent_Graph_Neural_Networks_for_Semi-Supervised_Node_Classification.pdf" style="color: blue;"><font color="BLUE" >[Paper]</font></a>
 <a href="https://github.com/yanbeiliu/SCGNN" style="color: blue;"><font color="BLUE" >[Code]</font></a>
 <a href="#" class="custom-link" onclick="toggleContent('liu2023self'); return false;">[Bibtex]<br></a>
@@ -94,13 +94,13 @@ IEEE Transaction on Big Data <b>(TBD)</b>, 2023 <br>
       publisher={IEEE}
 }
   </pre></div> 
-
+</li></ul>
 
 
 <ul> <li><b>Cross-scale contrastive triplet networks for graph representation learning</b> <br>
 <b>Yanbei Liu</b>, Wanjin Shan, Xiao Wang, Zhitao Xiao, Lei Geng, Fang Zhang, Dongdong Du, Yanwei Pang <br>
 <b>Pattern Recognition</b>, 2024 <br>
-</li></ul>
+
 <a href="https://github.com/yanbeiliu/CCTN" style="color: blue;"><font color="BLUE" >[Code]</font></a>
 <a href="#" class="custom-link" onclick="toggleContent('liu2024cross'); return false;">[Bibtex]<br></a>
 <div id="liu2024cross" class="hidden-content">
@@ -115,7 +115,7 @@ IEEE Transaction on Big Data <b>(TBD)</b>, 2023 <br>
       publisher={Elsevier}
 }
 </pre></div> 
-
+</li></ul>
 
 <ul> <li><b>Incomplete multi-modal representation learning for Alzheimer’s disease diagnosis</b> <br>
 <b>Yanbei Li</b>, Lianxi Fan, Changqing Zhang, Tao Zhou, Zhitao Xiao, Lei Geng, Dinggang Shen <br>
@@ -126,7 +126,7 @@ Medical Image Analysis <b>(MedIA)</b>, 2021 <br>
 <ul> <li><b>Independence promoted graph disentangled networks</b> <br>
 <b>Yanbei Liu</b>, Xiao Wang, Shu Wu, Zhitao Xiao <br>
 The Thirty-Fourth AAAI Conference on Artificial Intelligence <b>(AAAI)</b>, 2020 <br>
-</li></ul>
+
 <a href="files/Independence promoted graph disentangled networks.pdf" style="color: blue;"><font color="BLUE" >[Paper]</font></a>
 <a href="https://github.com/yanbeiliu/IPGDN" style="color: blue;"><font color="BLUE" >[Code]</font></a>
 <a href="#" class="custom-link" onclick="toggleContent('liu2020independence'); return false;">[Bibtex]<br></a>
@@ -141,7 +141,8 @@ The Thirty-Fourth AAAI Conference on Artificial Intelligence <b>(AAAI)</b>, 2020
       pages={4916--4923},
       year={2020}
 }
-    </pre></div> 
+    </pre></div>
+</li></ul>
 </body>
 </html>
 
