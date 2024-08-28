@@ -37,18 +37,18 @@ function toggleContent(contentId) {
 }
 </script>
 <body>  
-He is an Associate Professor at Tiangong University, China. Before that, he received the Ph.D degree from Tianjin University in Jan. 2017, under the supervision of Prof. Kaihua Liu. After finishing the Ph.D degree, he worked as a postdoc researcher at Tianjin University from Jul. 2020 to Jul. 2022, under the supervision of Prof. Yanwei Pang. His research interests are in graph neural networks, machine learning, and intelligent healthcare. He has published 40 peer reviewed papers in top venues in AI. He is the senior member of the China Computer Federation (CCF) and selected candidate for Tianjin’s “131” innovative talent.  
+<p>He is an Associate Professor at Tiangong University, China. Before that, he received the Ph.D degree from Tianjin University in Jan. 2017, under the supervision of Prof. Kaihua Liu. After finishing the Ph.D degree, he worked as a postdoc researcher at Tianjin University from Jul. 2020 to Jul. 2022, under the supervision of Prof. Yanwei Pang. His research interests are in graph neural networks, machine learning, and intelligent healthcare. He has published 40 peer reviewed papers in top venues in AI. He is the senior member of the China Computer Federation (CCF) and selected candidate for Tianjin’s “131” innovative talent.  <br></p>
 
 <h1 style="color: #FF0000;">Latest News</h1>
-* [08/2024] One paper was accepted by **IEEE TNNLS**.
-* [02/2024] One paper was accepted by **PR**.
-* [01/2023] One paper was accepted by **IEEE TBD**.
-* [01/2023] One paper was accepted by **IEEE TNNLS**. 
-* [01/2023] One paper was accepted by **IJCAI**.
-* [01/2023] One paper was accepted by **IEEE TMI**.  
+<ul><li><p> [08/2024] One paper was accepted by <b>IEEE TNNLS</b>.</p></li></ul>
+<ul><li><p> [02/2024] One paper was accepted by <b>PR</b>.</p></li></ul>
+<ul><li><p> [01/2023] One paper was accepted by <b>IEEE TBD</b>.</p></li></ul>
+<ul><li><p> [01/2023] One paper was accepted by <b>IEEE TNNLS</b>. </p></li></ul>
+<ul><li><p> [01/2023] One paper was accepted by <b>IJCAI</b>.</p></li></ul>
+<ul><li><p> [01/2023] One paper was accepted by <b>IEEE TMI</b>.</p></li></ul>  
 
 <h1 style="color: #333333;">Selected Publications</h1>
-<ul> <li><b>HGBER: Heterogeneous graph neural network via bidirectional encoding representation</b> <br>
+<ul> <li><p><b>HGBER: Heterogeneous graph neural network via bidirectional encoding representation</b> <br>
 <b>Yanbei Liu</b>, Lianxi Fan, Xiao Wang, Zhitao Xiao, Shuai Ma, Yanwei Pang, Jerry Chun-Wei Lin <br>
 IEEE Transactions on Neural Networks and Learning Systems <b>(TNNLS)</b>, 2023 <br>
 
@@ -65,7 +65,7 @@ IEEE Transactions on Neural Networks and Learning Systems <b>(TNNLS)</b>, 2023 <
       publisher={IEEE}
 }
     </pre></div>  
-</li></ul>
+</p></li></ul>
 
 <ul> <li><b>Structural attention graph neural network for diagnosis and prediction of COVID-19 severity</b> <br>
 <b>Yanbei Liu</b>, Henan Li, Tao Luo, Changqing Zhang, Zhitao Xiao, Ying Wei, Yaozong Gao, Feng Shi, Fei Shan, Dinggang Shen <br>
@@ -143,12 +143,14 @@ The Thirty-Fourth AAAI Conference on Artificial Intelligence <b>(AAAI)</b>, 2020
     </pre></div>
 </li></ul>
 
+<br>
 <h1 style="color: #333333;">Services</h1>
 <ul> <li><b>Conference Reviewer</b><br>
 AAAI Conference on Artificial Intelligence (AAAI)  
 The International Joint Conference on Artificial Intelligence (IJCAI)  
 The International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)  
 ACM International Conference on Multimedia (ACM-MM) ...
+</li></ul>
 <ul> <li><b>Journal Reviewer</b> <br>
 IEEE Transactions on Neural Networks and Learning Systems (TNNLS)  
 IEEE Transactions on Knowledge and Data Engineering (TKDE) 
@@ -157,6 +159,6 @@ IEEE Transactions on Big Data (TBD)
 IEEE Transcations on Image Processing (TIP)  
 IEEE Transaction on Medical Imaging (TMI)  
 Pattern Recognition (PR) ...
-
+</li></ul>
 </body>
 </html>
