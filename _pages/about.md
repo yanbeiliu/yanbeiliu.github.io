@@ -46,12 +46,12 @@ IEEE Transactions on Neural Networks and Learning Systems **(TNNLS)**, 2023 <br>
 <a href="#" class="custom-link" onclick="toggleContent('content1'); return false;">[Bibtex]<br></a>
 <div id="content1" class="hidden-content">
     <pre>
-    @article{liu2023hgber,<br>
-      title={HGBER: Heterogeneous graph neural network with bidirectional encoding representation},<br>
-      author={Liu, Yanbei and Fan, Lianxi and Wang, Xiao and Xiao, Zhitao and Ma, Shuai and Pang, Yanwei and Lin, Jerry Chun-Wei},<br>
-      journal={IEEE Transactions on Neural Networks and Learning Systems},<br>
-      year={2023},<br>
-      publisher={IEEE}<br>
+    @article{liu2023hgber,
+      title={HGBER: Heterogeneous graph neural network with bidirectional encoding representation},
+      author={Liu, Yanbei and Fan, Lianxi and Wang, Xiao and Xiao, Zhitao and Ma, Shuai and Pang, Yanwei and Lin, Jerry Chun-Wei},
+      journal={IEEE Transactions on Neural Networks and Learning Systems},
+      year={2023},
+      publisher={IEEE}
 }
     </pre></div>  
 
@@ -67,14 +67,14 @@ IEEE Transaction on Big Data **(TBD)**, 2023 <br>
 <div id="liu2023self" class="hidden-content">
   <pre>
     @article{liu2023self,
-      title={Self-Consistent Graph Neural Networks for Semi-Supervised Node Classification},<br>
-      author={Liu, Yanbei and Zhao, Shichuan and Wang, Xiao and Geng, Lei and Xiao, Zhitao and Lin, Jerry Chun-Wei},<br>
-      journal={IEEE Transactions on Big Data},<br>
-      volume={9},<br>
-      number={4},<br>
-      pages={1186--1197},<br>
-      year={2023},<br>
-      publisher={IEEE}<br>
+      title={Self-Consistent Graph Neural Networks for Semi-Supervised Node Classification},
+      author={Liu, Yanbei and Zhao, Shichuan and Wang, Xiao and Geng, Lei and Xiao, Zhitao and Lin, Jerry Chun-Wei},
+      journal={IEEE Transactions on Big Data},
+      volume={9},
+      number={4},
+      pages={1186--1197},
+      year={2023},
+      publisher={IEEE}
 }
   </pre></div> 
 
@@ -85,14 +85,14 @@ IEEE Transaction on Big Data **(TBD)**, 2023 <br>
 <a href="#" class="custom-link" onclick="toggleContent('liu2024cross'); return false;">[Bibtex]<br></a>
 <div id="liu2024cross" class="hidden-content">
   <pre>
-    @article{liu2024cross,<br>
-      title={Cross-scale contrastive triplet networks for graph representation learning},<br>
-      author={Liu, Yanbei and Shan, Wanjin and Wang, Xiao and Xiao, Zhitao and Geng, Lei and Zhang, Fang and Du, Dongdong and Pang, Yanwei},<br>
-      journal={Pattern Recognition},<br>
-      volume={145},<br>
-      pages={109907},<br>
-      year={2024},<br>
-      publisher={Elsevier}<br>
+    @article{liu2024cross,
+      title={Cross-scale contrastive triplet networks for graph representation learning},
+      author={Liu, Yanbei and Shan, Wanjin and Wang, Xiao and Xiao, Zhitao and Geng, Lei and Zhang, Fang and Du, Dongdong and Pang, Yanwei},
+      journal={Pattern Recognition},
+      volume={145},
+      pages={109907},
+      year={2024},
+      publisher={Elsevier}
 }
 </pre></div> 
 
@@ -107,7 +107,7 @@ The Thirty-Fourth AAAI Conference on Artificial Intelligence **(AAAI)**, 2020 <b
 <a href="#" class="custom-link" onclick="toggleContent('liu2020independence'); return false;">[Bibtex]<br></a>
 <div id="liu2020independence" class="hidden-content">
     <pre>
-    @inproceedings{liu2020independence,<br>
+    @inproceedings{liu2020independence,
       title={Independence promoted graph disentangled networks},
       author={Liu, Yanbei and Wang, Xiao and Wu, Shu and Xiao, Zhitao},
       booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
