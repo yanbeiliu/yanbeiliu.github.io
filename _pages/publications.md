@@ -36,10 +36,11 @@ function toggleContent(contentId) {
 </script>
 <body>  
   
-<ul><li> <u>Yanbei Liu</u>, Lu Yu, Shichuan Zhao, Xiao Wang, Lei Geng, Zhitao Xiao, Shuai Ma, Yanwei Pang. Graph neural networks with adaptive confidence discrimination. IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS**), 2024. (<font color='BLUE'> SCI 一区, TOP期刊, IF=14.255 </font>)
+<ul><li> <u>Yanbei Liu</u>, Lu Yu, Shichuan Zhao, Xiao Wang, Lei Geng, Zhitao Xiao, Shuai Ma, Yanwei Pang. Graph neural networks with adaptive confidence discrimination. IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>), 2024. (<font color='BLUE'> SCI 一区, TOP期刊, IF=14.255 </font>)
 </li></ul>
 
-<ul><li> <u>Yanbei Liu</u>, Lianxi Fan, Xiao Wang, Zhitao Xiao, Shuai Ma, Yanwei Pang, Jerry Chun-Wei Lin. HGBER: Heterogeneous graph neural network via bidirectional encoding representation. IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS**), 2023. (<font color='BLUE'> SCI 一区, TOP期刊, IF=14.255 </font>)<a href="files/HGBER_Heterogeneous_Graph_Neural_Network_With_Bidirectional_Encoding_Representation.pdf" style="color: blue;"><font color="BLUE" >[Paper]</font></a>
+<ul><li> <u>Yanbei Liu</u>, Lianxi Fan, Xiao Wang, Zhitao Xiao, Shuai Ma, Yanwei Pang, Jerry Chun-Wei Lin. HGBER: Heterogeneous graph neural network via bidirectional encoding representation. IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>), 2023. (<font color='BLUE'> SCI 一区, TOP期刊, IF=14.255 </font>)
+<a href="files/HGBER_Heterogeneous_Graph_Neural_Network_With_Bidirectional_Encoding_Representation.pdf" style="color: blue;"><font color="BLUE" >[Paper]</font></a>
 <a href="https://github.com/yanbeiliu/AEMVC" style="color: blue;"><font color="BLUE" >[Code]</font></a>
 <a href="#" class="custom-link" onclick="toggleContent('liu2023hgber'); return false;">[Bibtex]<br></a>
 <div id="liu2023hgber" class="hidden-content">
@@ -146,3 +147,5 @@ function toggleContent(contentId) {
 <ul><li> Lijun Jiao,<u>Yanbei Liu</u>*,Yaning Gu, Jun Wu, Fang Zhang. Multi-Scale TransUnet Combined with CBAM for Nuclear Image Segmentation. In Proceedings of the 12th International Conference on Computing and Pattern Recognition (<b>ICCPR**), 2023.</li></ul>
 <ul><li> <u>刘彦北</u>,李赫南,张长青,肖志涛,张芳,隗英,高耀宗,石峰,单飞,沈定刚.结构图注意力网络的新冠肺炎轻重症诊断算法[J].<b>中国图象图形学报</b>, 2022, (27) 3:750-761.</li></ul>
 <ul><li> 张芳,赵东旭,肖志涛,耿磊,吴骏,<u>刘彦北</u>.单幅图像超分辨率重建技术研究进展[J].<b>自动化学报</b>, 2021, 47:10001-10021.</li></ul>
+</body>
+</html>
