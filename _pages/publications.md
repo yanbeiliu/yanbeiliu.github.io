@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* <u>Yanbei Liu</u>, Lu Yu, Shichuan Zhao, Xiao Wang, Lei Geng, Zhitao Xiao, Shuai Ma, Yanwei Pang. Graph neural networks with adaptive confidence discrimination.IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2024. (<font color='BLUE'> SCI 一区, TOP期刊, IF=14.255 </font>)
+* <u>Yanbei Liu</u>, Lu Yu, Shichuan Zhao, Xiao Wang, Lei Geng, Zhitao Xiao, Shuai Ma, Yanwei Pang. Graph neural networks with adaptive confidence discrimination. IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2024. (<font color='BLUE'> SCI 一区, TOP期刊, IF=14.255 </font>)
 * <u>Yanbei Liu</u>, Lianxi Fan, Xiao Wang, Zhitao Xiao, Shuai Ma, Yanwei Pang, Jerry Chun-Wei Lin. HGBER: Heterogeneous graph neural network via bidirectional encoding representation. IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2023. (<font color='BLUE'> SCI 一区, TOP期刊, IF=14.255 </font>)<a href="files/HGBER_Heterogeneous_Graph_Neural_Network_With_Bidirectional_Encoding_Representation.pdf" style="color: blue;"><font color="BLUE" >[Paper]</font></a>
 <a href="https://github.com/yanbeiliu/AEMVC" style="color: blue;"><font color="BLUE" >[Code]</font></a>
 * <u>Yanbei Liu</u>, Henan Li, Tao Luo, Changqing Zhang, Zhitao Xiao, Ying Wei, Yaozong Gao, Feng Shi, Fei Shan, Dinggang Shen. Structural attention graph neural network for diagnosis and prediction of COVID-19 severity. IEEE Transaction on Medical Imaging(**TMI**), 2022, 42(2):557-567.(<font color='BLUE'> SCI 一区, TOP期刊, IF=11.037 </font>) 
