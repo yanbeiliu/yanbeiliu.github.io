@@ -22,11 +22,11 @@ Selected Publications
 ======
 * **HGBER: Heterogeneous graph neural network via bidirectional encoding representation** <br>
 **Yanbei Liu**, Lianxi Fan, Xiao Wang, Zhitao Xiao, Shuai Ma, Yanwei Pang, Jerry Chun-Wei Lin <br>
-IEEE Transactions on Neural Networks and Learning Systems **(TNNLS)**, 2023 <br>
+IEEE Transactions on Neural Networks and Learning Systems **(TNNLS)**, 2023 
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
         .custom-link {
             color: blue;
@@ -65,7 +65,6 @@ function toggleContent(contentId) {
 }
     </pre></div>  
 </body>
-</html>
 
 * **Structural attention graph neural network for diagnosis and prediction of COVID-19 severity** <br>
 **Yanbei Liu**, Henan Li, Tao Luo, Changqing Zhang, Zhitao Xiao, Ying Wei, Yaozong Gao, Feng Shi, Fei Shan, Dinggang Shen <br>
@@ -91,7 +90,6 @@ IEEE Transaction on Big Data **(TBD)**, 2023 <br>
 }
   </pre></div> 
 </body>
-</html>
 
 * **Cross-scale contrastive triplet networks for graph representation learning** <br>
 **Yanbei Liu**, Wanjin Shan, Xiao Wang, Zhitao Xiao, Lei Geng, Fang Zhang, Dongdong Du, Yanwei Pang <br>
@@ -112,7 +110,6 @@ IEEE Transaction on Big Data **(TBD)**, 2023 <br>
 }
 </pre></div> 
 </body>
-</html>
 
 * **Incomplete multi-modal representation learning for Alzheimer’s disease diagnosis** <br>
 **Yanbei Liu**, Lianxi Fan, Changqing Zhang, Tao Zhou, Zhitao Xiao, Lei Geng, Dinggang Shen <br>
