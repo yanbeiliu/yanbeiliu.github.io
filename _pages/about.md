@@ -70,13 +70,27 @@ IEEE Transactions on Neural Networks and Learning Systems <b>(TNNLS)</b>, 2023 <
 <ul> <li><b>Structural attention graph neural network for diagnosis and prediction of COVID-19 severity</b> <br>
 <b>Yanbei Liu</b>, Henan Li, Tao Luo, Changqing Zhang, Zhitao Xiao, Ying Wei, Yaozong Gao, Feng Shi, Fei Shan, Dinggang Shen <br>
 IEEE Transaction on Medical Imaging <b>(TMI)</b>, 2023 <br>
+<a href="https://ieeexplore.ieee.org/abstract/document/9969651" style="color: blue;"><font color="BLUE" >[Paper]</font></a>
+<a href="#" class="custom-link" onclick="toggleContent('liu2022structural'); return false;">[Bibtex]<br></a>
+<div id="liu2022structural" class="hidden-content">
+    <pre>
+   @article{liu2022structural,
+    title={Structural attention graph neural network for diagnosis and prediction of COVID-19 severity},
+    author={Liu, Yanbei and Li, Henan and Luo, Tao and Zhang, Changqing and Xiao, Zhitao and Wei, Ying and Gao, Yaozong and Shi, Feng and Shan, Fei and Shen, Dinggang},
+    journal={IEEE Transactions on Medical Imaging},
+    volume={42},
+    number={2},
+    pages={557--567},
+    year={2022},
+    publisher={IEEE}
+}
+    </pre></div> </li></ul>
  </li></ul> 
  
 
 <ul> <li><b>Self-consistent graph neural networks for semi-supervised node classification</b> <br>
 Yanbei Liu, Shichuan Zhao, Xiao Wang, Lei Geng, Zhitao Xiao, Jerry Chun-Wei Lin <br>
 IEEE Transaction on Big Data <b>(TBD)</b>, 2023 <br>
-
 <a href="files/Self-Consistent_Graph_Neural_Networks_for_Semi-Supervised_Node_Classification.pdf" style="color: blue;"><font color="BLUE" >[Paper]</font></a>
 <a href="https://github.com/yanbeiliu/SCGNN" style="color: blue;"><font color="BLUE" >[Code]</font></a>
 <a href="#" class="custom-link" onclick="toggleContent('liu2023self'); return false;">[Bibtex]<br></a>
@@ -99,7 +113,7 @@ IEEE Transaction on Big Data <b>(TBD)</b>, 2023 <br>
 <ul> <li><b>Cross-scale contrastive triplet networks for graph representation learning</b> <br>
 <b>Yanbei Liu</b>, Wanjin Shan, Xiao Wang, Zhitao Xiao, Lei Geng, Fang Zhang, Dongdong Du, Yanwei Pang <br>
 <b>Pattern Recognition</b>, 2024 <br>
-
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320323006052" style="color: blue;"><font color="BLUE" >[Paper]</font></a>
 <a href="https://github.com/yanbeiliu/CCTN" style="color: blue;"><font color="BLUE" >[Code]</font></a>
 <a href="#" class="custom-link" onclick="toggleContent('liu2024cross'); return false;">[Bibtex]<br></a>
 <div id="liu2024cross" class="hidden-content">
@@ -119,13 +133,25 @@ IEEE Transaction on Big Data <b>(TBD)</b>, 2023 <br>
 <ul> <li><b>Incomplete multi-modal representation learning for Alzheimer’s disease diagnosis</b> <br>
 <b>Yanbei Li</b>, Lianxi Fan, Changqing Zhang, Tao Zhou, Zhitao Xiao, Lei Geng, Dinggang Shen <br>
 Medical Image Analysis <b>(MedIA)</b>, 2021 <br>
-</li></ul>
-
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841520303170" style="color: blue;"><font color="BLUE" >[Paper]</font></a>
+<a href="#" class="custom-link" onclick="toggleContent('liu2021incomplete'); return false;">[Bibtex]<br></a>
+<div id="liu2021incomplete" class="hidden-content">
+  <pre>
+    @article{liu2021incomplete,
+      title={Incomplete multi-modal representation learning for Alzheimer’s disease diagnosis},
+      author={Liu, Yanbei and Fan, Lianxi and Zhang, Changqing and Zhou, Tao and Xiao, Zhitao and Geng, Lei and Shen, Dinggang},
+      journal={Medical Image Analysis},
+      volume={69},
+      pages={101953},
+      year={2021},
+      publisher={Elsevier}
+}
+</pre></div> 
+</li></ul>  
 
 <ul> <li><b>Independence promoted graph disentangled networks</b> <br>
 <b>Yanbei Liu</b>, Xiao Wang, Shu Wu, Zhitao Xiao <br>
 The Thirty-Fourth AAAI Conference on Artificial Intelligence <b>(AAAI)</b>, 2020 <br>
-
 <a href="files/Independence promoted graph disentangled networks.pdf" style="color: blue;"><font color="BLUE" >[Paper]</font></a>
 <a href="https://github.com/yanbeiliu/IPGDN" style="color: blue;"><font color="BLUE" >[Code]</font></a>
 <a href="#" class="custom-link" onclick="toggleContent('liu2020independence'); return false;">[Bibtex]<br></a>
