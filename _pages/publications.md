@@ -56,7 +56,7 @@ function toggleContent(contentId) {
 </li></ul>
 
 <ul><li> <u>Yanbei Liu</u>, Henan Li, Tao Luo, Changqing Zhang, Zhitao Xiao, Ying Wei, Yaozong Gao, Feng Shi, Fei Shan, Dinggang Shen. Structural attention graph neural network for diagnosis and prediction of COVID-19 severity. IEEE Transaction on Medical Imaging(<b>TMI**), 2022, 42(2):557-567.(<font color='BLUE'> SCI 一区, TOP期刊, IF=11.037 </font>)
-  </li></ul>
+</li></ul>
 
 <ul><li> <u>Yanbei Liu</u>, Lianxi Fan, Changqing Zhang, Tao Zhou, Zhitao Xiao, Lei Geng, Dinggang Shen*. Incomplete multi-modal representation learning for Alzheimer’s disease diagnosis. Medical Image Analysis (<b>MedIA</b>), 2021,69: 101953. (<font color='BLUE'> SCI一区, Top期刊, IF:11.148 </font>)
 </li></ul>
@@ -133,19 +133,31 @@ function toggleContent(contentId) {
     </pre></div>
 </li></ul>
 
-<ul><li> <u>Yanbei Liu</u>, Kaihua Liu, Changqing Zhang, Jing Wang, Xiao Wang. Unsupervised feature selection via diversity-induced self-representation. <b>Neurocomputing</b>, 2017, 219: 350-363.</li></ul>
+<ul><li> <u>Yanbei Liu</u>, Kaihua Liu, Changqing Zhang, Jing Wang, Xiao Wang. Unsupervised feature selection via diversity-induced self-representation. <b>Neurocomputing</b>, 2017, 219: 350-363.
+</li></ul>
 
-<ul><li> <u>Yanbei Liu</u>, Qi Wang, Xiao Wang, Fang Zhang, Lei Geng, Jun Wu, Zhitao Xiao. Community enhanced graph convolutional networks. Pattern Recognition Letters (<b>PRL</b>), 2020, 138: 462-468.</li></ul>
+<ul><li> <u>Yanbei Liu</u>, Qi Wang, Xiao Wang, Fang Zhang, Lei Geng, Jun Wu, Zhitao Xiao. Community enhanced graph convolutional networks. Pattern Recognition Letters (<b>PRL</b>), 2020, 138: 462-468.
+</li></ul>
 
-<ul><li> <u>Yanbei Liu</u>, Lei Geng, Fang Zhang, Jun Wu, Liang Zhang, Zhitao Xiao. Unsupervised feature selection based on ideal local structure learning. Multimedia Tools and Applications, 2019: 1-15.</li></ul>
-<ul><li> <u>Yanbei Liu</u>, Kaihua Liu, Changqing Zhang, Xiao Wang, Shaona Wang, Zhitao Xiao. Entropy-based active sparse subspace clustering. Multimedia Tools and Applications, 2018(3):1-17.</li></ul>
-<ul><li> Zhitao Xiao, Xiaomeng Zhang, <u>Yanbei Liu*</u>, Lei Geng, Jun Wu, Wen Wang, Fang Zhang. RNN-combined graph convolutional network with multi-feature fusion for tuberculosis cavity segmentation. Signal, Image and Video Processing, 2023:1-7.</li></ul>
-<ul><li> Fang Zhang, Wen Qin, <u>Yanbei Liu</u>*, Zhitao Xiao, Jinxin Liu, Qi Wang, Kaihua Liu. A dual-channel convolution neural network for image smoke detection. Multimedia Tools and Applications, 2020, 79: 34587-34603.</li></ul>
-<ul><li> Jun Wu, Juan Le, Zhitao Xiao, Fang Zhang, Lei Geng, <u>Yanbei Liu</u>, Wen Wang. Automatic fabric defect detection using a wide-and-light network[J]. Applied Intelligence, 2021, 51(7): 4945-4961.</li></ul>
-<ul><li> Zhitao Xiao, Naichao Du, Lei Geng, Fang Zhang, Jun Wu, <u>Yanbei Liu</u>. Multi-scale heterogeneous 3D CNN for false-positive reduction in pulmonary nodule detection, based on chest CT images[J]. Applied Sciences, 2019, 9(16): 3261-3272.</li></ul>
-<ul><li> Yu Qin, Yihan Guo, Liyu Wang, <u>Yanbei Liu</u>*, Xiaomeng Zhang, Zijun Li, Zixin Cai, Jieyang He. CNN-Transformer combined with skip structure for tuberculosis cavity segmentation. In Proceedings of the International Conference on Computing and Artificial Intelligence (<b>ICCAI</b>), 2023:131-138.</li></ul>
-<ul><li> Lijun Jiao,<u>Yanbei Liu</u>*,Yaning Gu, Jun Wu, Fang Zhang. Multi-Scale TransUnet Combined with CBAM for Nuclear Image Segmentation. In Proceedings of the 12th International Conference on Computing and Pattern Recognition (<b>ICCPR**), 2023.</li></ul>
-<ul><li> <u>刘彦北</u>,李赫南,张长青,肖志涛,张芳,隗英,高耀宗,石峰,单飞,沈定刚.结构图注意力网络的新冠肺炎轻重症诊断算法[J].<b>中国图象图形学报</b>, 2022, (27) 3:750-761.</li></ul>
-<ul><li> 张芳,赵东旭,肖志涛,耿磊,吴骏,<u>刘彦北</u>.单幅图像超分辨率重建技术研究进展[J].<b>自动化学报</b>, 2021, 47:10001-10021.</li></ul>
+<ul><li> <u>Yanbei Liu</u>, Lei Geng, Fang Zhang, Jun Wu, Liang Zhang, Zhitao Xiao. Unsupervised feature selection based on ideal local structure learning. Multimedia Tools and Applications, 2019: 1-15.
+</li></ul>
+<ul><li> <u>Yanbei Liu</u>, Kaihua Liu, Changqing Zhang, Xiao Wang, Shaona Wang, Zhitao Xiao. Entropy-based active sparse subspace clustering. Multimedia Tools and Applications, 2018(3):1-17.
+</li></ul>
+<ul><li> Zhitao Xiao, Xiaomeng Zhang, <u>Yanbei Liu*</u>, Lei Geng, Jun Wu, Wen Wang, Fang Zhang. RNN-combined graph convolutional network with multi-feature fusion for tuberculosis cavity segmentation. Signal, Image and Video Processing, 2023:1-7.
+</li></ul>
+<ul><li> Fang Zhang, Wen Qin, <u>Yanbei Liu</u>*, Zhitao Xiao, Jinxin Liu, Qi Wang, Kaihua Liu. A dual-channel convolution neural network for image smoke detection. Multimedia Tools and Applications, 2020, 79: 34587-34603.
+</li></ul>
+<ul><li> Jun Wu, Juan Le, Zhitao Xiao, Fang Zhang, Lei Geng, <u>Yanbei Liu</u>, Wen Wang. Automatic fabric defect detection using a wide-and-light network[J]. Applied Intelligence, 2021, 51(7): 4945-4961.
+</li></ul>
+<ul><li> Zhitao Xiao, Naichao Du, Lei Geng, Fang Zhang, Jun Wu, <u>Yanbei Liu</u>. Multi-scale heterogeneous 3D CNN for false-positive reduction in pulmonary nodule detection, based on chest CT images[J]. Applied Sciences, 2019, 9(16): 3261-3272.
+</li></ul>
+<ul><li> Yu Qin, Yihan Guo, Liyu Wang, <u>Yanbei Liu</u>*, Xiaomeng Zhang, Zijun Li, Zixin Cai, Jieyang He. CNN-Transformer combined with skip structure for tuberculosis cavity segmentation. In Proceedings of the International Conference on Computing and Artificial Intelligence (<b>ICCAI</b>), 2023:131-138.
+</li></ul>
+<ul><li> Lijun Jiao,<u>Yanbei Liu</u>*,Yaning Gu, Jun Wu, Fang Zhang. Multi-Scale TransUnet Combined with CBAM for Nuclear Image Segmentation. In Proceedings of the 12th International Conference on Computing and Pattern Recognition (<b>ICCPR</b>), 2023.
+</li></ul>
+<ul><li> <u>刘彦北</u>,李赫南,张长青,肖志涛,张芳,隗英,高耀宗,石峰,单飞,沈定刚.结构图注意力网络的新冠肺炎轻重症诊断算法[J].<b>中国图象图形学报</b>, 2022, (27) 3:750-761.
+</li></ul>
+<ul><li> 张芳,赵东旭,肖志涛,耿磊,吴骏,<u>刘彦北</u>.单幅图像超分辨率重建技术研究进展[J].<b>自动化学报</b>, 2021, 47:10001-10021.
+</li></ul>
 </body>
 </html>
