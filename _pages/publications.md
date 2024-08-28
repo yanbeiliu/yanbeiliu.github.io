@@ -97,7 +97,7 @@ function toggleContent(contentId) {
   </pre></div> 
 </li></ul>
 
-<ul><li> <u>Yanbei Liu</u>, Jinxin Liu, Zhongqiang Wang, Xiao Wang, Fang Zhang, Zhitao Xiao. Binarized network embedding with community structural information. <b>Information Science**, 2022,616: 204-216. (<font color='BLUE'> SCI 一区, TOP期刊, IF=8.233 </font>)  
+<ul><li> <u>Yanbei Liu</u>, Jinxin Liu, Zhongqiang Wang, Xiao Wang, Fang Zhang, Zhitao Xiao. Binarized network embedding with community structural information. <b>Information Science</b>, 2022,616: 204-216. (<font color='BLUE'> SCI 一区, TOP期刊, IF=8.233 </font>)  
 </li></ul>
 
 <ul><li> <u>Yanbei Liu</u>, Yu Zhao, Xiao Wang, Lei Geng, Zhitao Xiao. Multi-Scale subgraph contrastive learning. In Proceedings of the International Joint Conference on Artificial Intelligence (<b>IJCAI</b>), 2023. (<font color='BLUE'> CCF-A会议 </font>)
