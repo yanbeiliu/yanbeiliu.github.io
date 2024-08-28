@@ -146,19 +146,19 @@ The Thirty-Fourth AAAI Conference on Artificial Intelligence <b>(AAAI)</b>, 2020
 <br>
 <h1 style="color: #333333;">Services</h1>
 <ul> <li><b>Conference Reviewer</b><br>
-<pre>AAAI Conference on Artificial Intelligence (AAAI) 
-The International Joint Conference on Artificial Intelligence (IJCAI)  
-The International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)  
+AAAI Conference on Artificial Intelligence (AAAI) <br>
+The International Joint Conference on Artificial Intelligence (IJCAI) <br> 
+The International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) <br> 
 ACM International Conference on Multimedia (ACM-MM) ...
- </pre></li></ul>
+ </li></ul>
 <ul> <li><b>Journal Reviewer</b> <br>
- <pre>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
-IEEE Transactions on Knowledge and Data Engineering (TKDE)
-IEEE Transactions on Cybernetics (TCYB)
-IEEE Transactions on Big Data (TBD) 
-IEEE Transcations on Image Processing (TIP) 
-IEEE Transaction on Medical Imaging (TMI)  
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS)<br>
+IEEE Transactions on Knowledge and Data Engineering (TKDE)<br>
+IEEE Transactions on Cybernetics (TCYB)<br>
+IEEE Transactions on Big Data (TBD) <br>
+IEEE Transcations on Image Processing (TIP) <br>
+IEEE Transaction on Medical Imaging (TMI)<br>  
 Pattern Recognition (PR) ...
- </pre></li></ul>
+</li></ul>
 </body>
 </html>
