@@ -85,7 +85,6 @@ IEEE Transaction on Medical Imaging <b>(TMI)</b>, 2023 <br>
     publisher={IEEE}
 }
     </pre></div> </li></ul>
- </li></ul> 
  
 
 <ul> <li><b>Self-consistent graph neural networks for semi-supervised node classification</b> <br>
