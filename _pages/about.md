@@ -84,15 +84,16 @@ IEEE Transaction on Big Data **(TBD)**, 2023 <br>
 <a href="#" class="custom-link" onclick="toggleContent('liu2024cross'); return false;">[Bibtex]</a>
 <div id="liu2024cross" class="hidden-content">
     @article{liu2024cross,<br>
-    title={Cross-scale contrastive triplet networks for graph representation learning},<br>
-    author={Liu, Yanbei and Shan, Wanjin and Wang, Xiao and Xiao, Zhitao and Geng, Lei and Zhang, Fang and Du, Dongdong and Pang, Yanwei},<br>
-    journal={Pattern Recognition},<br>
-    volume={145},<br>
-    pages={109907},<br>
-    year={2024},<br>
-    publisher={Elsevier}<br>
+      title={Cross-scale contrastive triplet networks for graph representation learning},<br>
+      author={Liu, Yanbei and Shan, Wanjin and Wang, Xiao and Xiao, Zhitao and Geng, Lei and Zhang, Fang and Du, Dongdong and Pang, Yanwei},<br>
+      journal={Pattern Recognition},<br>
+      volume={145},<br>
+      pages={109907},<br>
+      year={2024},<br>
+      publisher={Elsevier}<br>
 }
-  
+</div> 
+
 * **Incomplete multi-modal representation learning for Alzheimer’s disease diagnosis** <br>
 **Yanbei Liu**, Lianxi Fan, Changqing Zhang, Tao Zhou, Zhitao Xiao, Lei Geng, Dinggang Shen <br>
 Medical Image Analysis **(MedIA)**, 2021 <br>
@@ -104,14 +105,28 @@ The Thirty-Fourth AAAI Conference on Artificial Intelligence **(AAAI)**, 2020 <b
 <a href="#" class="custom-link" onclick="toggleContent('liu2020independence'); return false;">[Bibtex]</a>
 <div id="liu2020independence" class="hidden-content">
     @inproceedings{liu2020independence,<br>
-    title={Independence promoted graph disentangled networks},<br>
-    author={Liu, Yanbei and Wang, Xiao and Wu, Shu and Xiao, Zhitao},<br>
-    booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},<br>
-    volume={34},<br>
-    number={04},<br>
-    pages={4916--4923},<br>
-    year={2020}<br>
+      title={Independence promoted graph disentangled networks},<br>
+      author={Liu, Yanbei and Wang, Xiao and Wu, Shu and Xiao, Zhitao},<br>
+      booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},<br>
+      volume={34},<br>
+      number={04},<br>
+      pages={4916--4923},<br>
+      year={2020}<br>
 }
+</div> 
+<script>
+function toggleContent(contentId) {
+    var content = document.getElementById(contentId);
+    if (content.style.display === 'none') {
+        content.style.display = 'block';
+    } else {
+        content.style.display = 'none';
+    }
+}
+</script>
+
+</body>
+</html>
 
 Services
 ======
