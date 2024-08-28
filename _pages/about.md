@@ -40,6 +40,16 @@ IEEE Transactions on Neural Networks and Learning Systems **(TNNLS)**, 2023 <br>
         }
     </style>
 </head>
+<script>
+function toggleContent(contentId) {
+    var content = document.getElementById(contentId);
+    if (content.style.display === 'none') {
+        content.style.display = 'block';
+    } else {
+        content.style.display = 'none';
+    }
+}
+</script>
 <body>
 <a href="files/HGBER_Heterogeneous_Graph_Neural_Network_With_Bidirectional_Encoding_Representation.pdf" style="color: blue;"><font color="BLUE" >[Paper]</font></a>
 <a href="https://github.com/yanbeiliu/AEMVC" style="color: blue;"><font color="BLUE" >[Code]</font></a>
@@ -54,6 +64,8 @@ IEEE Transactions on Neural Networks and Learning Systems **(TNNLS)**, 2023 <br>
       publisher={IEEE}
 }
     </pre></div>  
+</body>
+</html>
 
 * **Structural attention graph neural network for diagnosis and prediction of COVID-19 severity** <br>
 **Yanbei Liu**, Henan Li, Tao Luo, Changqing Zhang, Zhitao Xiao, Ying Wei, Yaozong Gao, Feng Shi, Fei Shan, Dinggang Shen <br>
@@ -61,6 +73,7 @@ IEEE Transaction on Medical Imaging **(TMI)**, 2023 <br>
 * **Self-consistent graph neural networks for semi-supervised node classification** <br>
 Yanbei Liu, Shichuan Zhao, Xiao Wang, Lei Geng, Zhitao Xiao, Jerry Chun-Wei Lin <br>
 IEEE Transaction on Big Data **(TBD)**, 2023 <br>
+<body>
 <a href="files/Self-Consistent_Graph_Neural_Networks_for_Semi-Supervised_Node_Classification.pdf" style="color: blue;"><font color="BLUE" >[Paper]</font></a>
 <a href="https://github.com/yanbeiliu/SCGNN" style="color: blue;"><font color="BLUE" >[Code]</font></a>
 <a href="#" class="custom-link" onclick="toggleContent('liu2023self'); return false;">[Bibtex]<br></a>
@@ -77,10 +90,13 @@ IEEE Transaction on Big Data **(TBD)**, 2023 <br>
       publisher={IEEE}
 }
   </pre></div> 
+</body>
+</html>
 
 * **Cross-scale contrastive triplet networks for graph representation learning** <br>
 **Yanbei Liu**, Wanjin Shan, Xiao Wang, Zhitao Xiao, Lei Geng, Fang Zhang, Dongdong Du, Yanwei Pang <br>
 **Pattern Recognition**, 2024 <br>
+<body>
 <a href="https://github.com/yanbeiliu/CCTN" style="color: blue;"><font color="BLUE" >[Code]</font></a>
 <a href="#" class="custom-link" onclick="toggleContent('liu2024cross'); return false;">[Bibtex]<br></a>
 <div id="liu2024cross" class="hidden-content">
@@ -95,6 +111,8 @@ IEEE Transaction on Big Data **(TBD)**, 2023 <br>
       publisher={Elsevier}
 }
 </pre></div> 
+</body>
+</html>
 
 * **Incomplete multi-modal representation learning for Alzheimer’s disease diagnosis** <br>
 **Yanbei Liu**, Lianxi Fan, Changqing Zhang, Tao Zhou, Zhitao Xiao, Lei Geng, Dinggang Shen <br>
@@ -102,6 +120,7 @@ Medical Image Analysis **(MedIA)**, 2021 <br>
 * **Independence promoted graph disentangled networks** <br>
 **Yanbei Liu**, Xiao Wang, Shu Wu, Zhitao Xiao <br>
 The Thirty-Fourth AAAI Conference on Artificial Intelligence **(AAAI)**, 2020 <br>
+<body>
 <a href="files/Independence promoted graph disentangled networks.pdf" style="color: blue;"><font color="BLUE" >[Paper]</font></a>
 <a href="https://github.com/yanbeiliu/IPGDN" style="color: blue;"><font color="BLUE" >[Code]</font></a>
 <a href="#" class="custom-link" onclick="toggleContent('liu2020independence'); return false;">[Bibtex]<br></a>
@@ -117,19 +136,10 @@ The Thirty-Fourth AAAI Conference on Artificial Intelligence **(AAAI)**, 2020 <b
       year={2020}
 }
     </pre></div> 
-<script>
-function toggleContent(contentId) {
-    var content = document.getElementById(contentId);
-    if (content.style.display === 'none') {
-        content.style.display = 'block';
-    } else {
-        content.style.display = 'none';
-    }
-}
-</script>
-
 </body>
 </html>
+
+
 
 Services
 ======
