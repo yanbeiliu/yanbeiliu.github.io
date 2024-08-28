@@ -20,9 +20,7 @@ He is an Associate Professor at Tiangong University, China. Before that, he rece
 
 Selected Publications
 ======
-* **HGBER: Heterogeneous graph neural network via bidirectional encoding representation** <br>
-**Yanbei Liu**, Lianxi Fan, Xiao Wang, Zhitao Xiao, Shuai Ma, Yanwei Pang, Jerry Chun-Wei Lin <br>
-IEEE Transactions on Neural Networks and Learning Systems **(TNNLS)**, 2023 
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -50,6 +48,11 @@ function toggleContent(contentId) {
     }
 }
 </script>
+  
+<ul> <li><b>HGBER: Heterogeneous graph neural network via bidirectional encoding representation</b> <br>
+<b>Yanbei Liu</b>, Lianxi Fan, Xiao Wang, Zhitao Xiao, Shuai Ma, Yanwei Pang, Jerry Chun-Wei Lin <br>
+IEEE Transactions on Neural Networks and Learning Systems <b>(TNNLS)</b>, 2023 
+</li></ul>
 <body>
 <a href="files/HGBER_Heterogeneous_Graph_Neural_Network_With_Bidirectional_Encoding_Representation.pdf" style="color: blue;"><font color="BLUE" >[Paper]</font></a>
 <a href="https://github.com/yanbeiliu/AEMVC" style="color: blue;"><font color="BLUE" >[Code]</font></a>
@@ -66,12 +69,14 @@ function toggleContent(contentId) {
     </pre></div>  
 </body>
 
-* **Structural attention graph neural network for diagnosis and prediction of COVID-19 severity** <br>
-**Yanbei Liu**, Henan Li, Tao Luo, Changqing Zhang, Zhitao Xiao, Ying Wei, Yaozong Gao, Feng Shi, Fei Shan, Dinggang Shen <br>
-IEEE Transaction on Medical Imaging **(TMI)**, 2023 <br>
+<ul> <li><b>Structural attention graph neural network for diagnosis and prediction of COVID-19 severity</b> <br>
+<b>Yanbei Liu</b>, Henan Li, Tao Luo, Changqing Zhang, Zhitao Xiao, Ying Wei, Yaozong Gao, Feng Shi, Fei Shan, Dinggang Shen <br>
+IEEE Transaction on Medical Imaging <b>(TMI)</b>, 2023 <br>
+ </li></ul> 
+ 
 * **Self-consistent graph neural networks for semi-supervised node classification** <br>
 Yanbei Liu, Shichuan Zhao, Xiao Wang, Lei Geng, Zhitao Xiao, Jerry Chun-Wei Lin <br>
-IEEE Transaction on Big Data **(TBD)**, 2023 <br>
+IEEE Transaction on Big Data **(TBD)</b>, 2023 <br>
 <body>
 <a href="files/Self-Consistent_Graph_Neural_Networks_for_Semi-Supervised_Node_Classification.pdf" style="color: blue;"><font color="BLUE" >[Paper]</font></a>
 <a href="https://github.com/yanbeiliu/SCGNN" style="color: blue;"><font color="BLUE" >[Code]</font></a>
