@@ -51,7 +51,7 @@ function toggleContent(contentId) {
 <body>  
 <ul> <li><b>HGBER: Heterogeneous graph neural network via bidirectional encoding representation</b> <br>
 <b>Yanbei Liu</b>, Lianxi Fan, Xiao Wang, Zhitao Xiao, Shuai Ma, Yanwei Pang, Jerry Chun-Wei Lin <br>
-IEEE Transactions on Neural Networks and Learning Systems <b>(TNNLS)</b>, 2023 
+IEEE Transactions on Neural Networks and Learning Systems <b>(TNNLS)</b>, 2023 <br>
 
 <a href="files/HGBER_Heterogeneous_Graph_Neural_Network_With_Bidirectional_Encoding_Representation.pdf" style="color: blue;"><font color="BLUE" >[Paper]</font></a>
 <a href="https://github.com/yanbeiliu/AEMVC" style="color: blue;"><font color="BLUE" >[Code]</font></a>
