@@ -6,20 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-He is an Associate Professor at Tiangong University, China. Before that, he received the Ph.D degree from Tianjin University in Jan. 2017, under the supervision of Prof. Kaihua Liu. After finishing the Ph.D degree, he worked as a postdoc researcher at Tianjin University from Jul. 2020 to Jul. 2022, under the supervision of Prof. Yanwei Pang. His research interests are in graph neural networks, machine learning, and intelligent healthcare. He has published 40 peer reviewed papers in top venues in AI. He is the senior member of the China Computer Federation (CCF) and selected candidate for Tianjin’s “131” innovative talent.  
-
-<h1 style="color: #FF0000;">Latest News</h1>
-* [08/2024] One paper was accepted by **IEEE TNNLS**.
-* [02/2024] One paper was accepted by **PR**.
-* [01/2023] One paper was accepted by **IEEE TBD**.
-* [01/2023] One paper was accepted by **IEEE TNNLS**. 
-* [01/2023] One paper was accepted by **IJCAI**.
-* [01/2023] One paper was accepted by **IEEE TMI**.  
-
-
-Selected Publications
-======
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -35,6 +21,9 @@ Selected Publications
         .hidden-content {
             display: none;
         }
+       body {
+            color: #333333; /* 亮黑色 */
+        }
     </style>
 </head>
 <script>
@@ -47,8 +36,18 @@ function toggleContent(contentId) {
     }
 }
 </script>
-  
 <body>  
+He is an Associate Professor at Tiangong University, China. Before that, he received the Ph.D degree from Tianjin University in Jan. 2017, under the supervision of Prof. Kaihua Liu. After finishing the Ph.D degree, he worked as a postdoc researcher at Tianjin University from Jul. 2020 to Jul. 2022, under the supervision of Prof. Yanwei Pang. His research interests are in graph neural networks, machine learning, and intelligent healthcare. He has published 40 peer reviewed papers in top venues in AI. He is the senior member of the China Computer Federation (CCF) and selected candidate for Tianjin’s “131” innovative talent.  
+
+<h1 style="color: #FF0000;">Latest News</h1>
+* [08/2024] One paper was accepted by **IEEE TNNLS**.
+* [02/2024] One paper was accepted by **PR**.
+* [01/2023] One paper was accepted by **IEEE TBD**.
+* [01/2023] One paper was accepted by **IEEE TNNLS**. 
+* [01/2023] One paper was accepted by **IJCAI**.
+* [01/2023] One paper was accepted by **IEEE TMI**.  
+
+<h1 style="color: #333333;">Selected Publications</h1>
 <ul> <li><b>HGBER: Heterogeneous graph neural network via bidirectional encoding representation</b> <br>
 <b>Yanbei Liu</b>, Lianxi Fan, Xiao Wang, Zhitao Xiao, Shuai Ma, Yanwei Pang, Jerry Chun-Wei Lin <br>
 IEEE Transactions on Neural Networks and Learning Systems <b>(TNNLS)</b>, 2023 <br>
@@ -143,19 +142,14 @@ The Thirty-Fourth AAAI Conference on Artificial Intelligence <b>(AAAI)</b>, 2020
 }
     </pre></div>
 </li></ul>
-</body>
-</html>
 
-
-
-Services
-======
-* **Conference Reviewer** <br>
+<h1 style="color: #333333;">Services</h1>
+<ul> <li><b>Conference Reviewer</b><br>
 AAAI Conference on Artificial Intelligence (AAAI)  
 The International Joint Conference on Artificial Intelligence (IJCAI)  
 The International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)  
 ACM International Conference on Multimedia (ACM-MM) ...
-* **Journal Reviewer** <br>
+<ul> <li><b>Journal Reviewer</b> <br>
 IEEE Transactions on Neural Networks and Learning Systems (TNNLS)  
 IEEE Transactions on Knowledge and Data Engineering (TKDE) 
 IEEE Transactions on Cybernetics (TCYB)  
@@ -163,3 +157,6 @@ IEEE Transactions on Big Data (TBD)
 IEEE Transcations on Image Processing (TIP)  
 IEEE Transaction on Medical Imaging (TMI)  
 Pattern Recognition (PR) ...
+
+</body>
+</html>
