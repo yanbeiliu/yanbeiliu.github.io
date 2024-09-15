@@ -35,6 +35,8 @@ function toggleContent(contentId) {
 }
 </script>
 <body>  
+<ul><li> <u>Yanbei Liu</u>, Xinwen Peng, Xin Wei, Lei Geng, Fang Zhang, Zhitao Xiao, Jerry Chun-Wei Lin. Label-Aware Dual Graph Neural Networks for Multi-Label Fundus Image Classification.  IEEE Journal of Biomedical and Health Informatics (<b>J-BHI</b>), 2024. (<font color='BLUE'> SCI 二区, TOP期刊, IF=7.7 </font>)
+</li></ul>
   
 <ul><li> <u>Yanbei Liu</u>, Lu Yu, Shichuan Zhao, Xiao Wang, Lei Geng, Zhitao Xiao, Shuai Ma, Yanwei Pang. Graph neural networks with adaptive confidence discrimination. IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>), 2024. (<font color='BLUE'> SCI 一区, TOP期刊, IF=14.255 </font>)
 </li></ul>
