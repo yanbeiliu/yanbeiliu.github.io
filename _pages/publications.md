@@ -41,7 +41,7 @@ function toggleContent(contentId) {
 <ul><li> <u>Yanbei Liu</u>, Lu Yu, Shichuan Zhao, Xiao Wang, Lei Geng, Zhitao Xiao, Shuai Ma, Yanwei Pang. Graph neural networks with adaptive confidence discrimination. IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>), 2024. (<font color='BLUE'> SCI 一区, TOP期刊, IF=14.255 </font>)
 </li></ul>
 
-<ul><li> <u>Yanbei Liu</u>, Lianxi Fan, Xiao Wang, Zhitao Xiao, Shuai Ma, Yanwei Pang, Jerry Chun-Wei Lin. HGBER: Heterogeneous graph neural network via bidirectional encoding representation. IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>), 2023. (<font color='BLUE'> SCI 一区, TOP期刊, IF=14.255 </font>)
+<ul><li> <u>Yanbei Liu</u>, Lianxi Fan, Xiao Wang, Zhitao Xiao, Shuai Ma, Yanwei Pang, Jerry Chun-Wei Lin. HGBER: Heterogeneous graph neural network via bidirectional encoding representation. IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>), 2023, 35(7):9340-9351. (<font color='BLUE'> SCI 一区, TOP期刊, IF=14.255 </font>)
 <a href="files/HGBER_Heterogeneous_Graph_Neural_Network_With_Bidirectional_Encoding_Representation.pdf" style="color: blue;"><font color="BLUE" >[Paper]</font></a>
 <a href="https://github.com/yanbeiliu/AEMVC" style="color: blue;"><font color="BLUE" >[Code]</font></a>
 <a href="#" class="custom-link" onclick="toggleContent('liu2023hgber'); return false;">[Bibtex]<br></a>
