@@ -51,6 +51,9 @@ function toggleContent(contentId) {
       title={HGBER: Heterogeneous graph neural network with bidirectional encoding representation},
       author={Liu, Yanbei and Fan, Lianxi and Wang, Xiao and Xiao, Zhitao and Ma, Shuai and Pang, Yanwei and Lin, Jerry Chun-Wei},
       journal={IEEE Transactions on Neural Networks and Learning Systems},
+      volume={35},
+      number={7},
+      pages={9340--9351},
       year={2023},
       publisher={IEEE}
 }
@@ -60,10 +63,10 @@ function toggleContent(contentId) {
 <ul><li> <u>Yanbei Liu</u>, Henan Li, Tao Luo, Changqing Zhang, Zhitao Xiao, Ying Wei, Yaozong Gao, Feng Shi, Fei Shan, Dinggang Shen. Structural attention graph neural network for diagnosis and prediction of COVID-19 severity. IEEE Transaction on Medical Imaging(<b>TMI</b>), 2022, 42(2):557-567.(<font color='BLUE'> SCI 一区, TOP期刊, IF=11.037 </font>)
 </li></ul>
 
-<ul><li> <u>Yanbei Liu</u>, Lianxi Fan, Changqing Zhang, Tao Zhou, Zhitao Xiao, Lei Geng, Dinggang Shen*. Incomplete multi-modal representation learning for Alzheimer’s disease diagnosis. Medical Image Analysis (<b>MedIA</b>), 2021,69: 101953. (<font color='BLUE'> SCI一区, Top期刊, IF:11.148 </font>)
+<ul><li> <u>Yanbei Liu</u>, Lianxi Fan, Changqing Zhang, Tao Zhou, Zhitao Xiao, Lei Geng, Dinggang Shen*. Incomplete multi-modal representation learning for Alzheimer’s disease diagnosis. Medical Image Analysis (<b>MedIA</b>), 2021,69: 1-10. (<font color='BLUE'> SCI一区, Top期刊, IF:11.148 </font>)
 </li></ul>
 
-<ul><li> <u>Yanbei Liu</u>, Wanjin Shan, Xiao Wang, Zhitao Xiao, Lei Geng, Fang Zhang, Dongdong Du, Yanwei Pang. Cross-scale contrastive triplet networks for graph representation learning. <b>Pattern Recognition</b>, 2024, 145: 109907. (<font color='BLUE'> SCI 一区, TOP期刊, IF=8.48 </font>)
+<ul><li> <u>Yanbei Liu</u>, Wanjin Shan, Xiao Wang, Zhitao Xiao, Lei Geng, Fang Zhang, Dongdong Du, Yanwei Pang. Cross-scale contrastive triplet networks for graph representation learning. <b>Pattern Recognition</b>, 2024, 145: 1-11. (<font color='BLUE'> SCI 一区, TOP期刊, IF=8.48 </font>)
 <a href="https://github.com/yanbeiliu/CCTN" style="color: blue;"><font color="BLUE" >[Code]</font></a>
 <a href="#" class="custom-link" onclick="toggleContent('liu2024cross'); return false;">[Bibtex]<br></a>
 <div id="liu2024cross" class="hidden-content">
@@ -73,7 +76,7 @@ function toggleContent(contentId) {
       author={Liu, Yanbei and Shan, Wanjin and Wang, Xiao and Xiao, Zhitao and Geng, Lei and Zhang, Fang and Du, Dongdong and Pang, Yanwei},
       journal={Pattern Recognition},
       volume={145},
-      pages={109907},
+      pages={1--11},
       year={2024},
       publisher={Elsevier}
 }
