@@ -62,6 +62,9 @@ IEEE Transactions on Neural Networks and Learning Systems <b>(TNNLS)</b>, 2023 <
       title={HGBER: Heterogeneous graph neural network with bidirectional encoding representation},
       author={Liu, Yanbei and Fan, Lianxi and Wang, Xiao and Xiao, Zhitao and Ma, Shuai and Pang, Yanwei and Lin, Jerry Chun-Wei},
       journal={IEEE Transactions on Neural Networks and Learning Systems},
+      volume={35},
+      number={7},
+      pages={9340--9351},
       year={2023},
       publisher={IEEE}
 }
@@ -123,7 +126,7 @@ IEEE Transaction on Big Data <b>(TBD)</b>, 2023 <br>
       author={Liu, Yanbei and Shan, Wanjin and Wang, Xiao and Xiao, Zhitao and Geng, Lei and Zhang, Fang and Du, Dongdong and Pang, Yanwei},
       journal={Pattern Recognition},
       volume={145},
-      pages={109907},
+      pages={1--10},
       year={2024},
       publisher={Elsevier}
 }
@@ -142,7 +145,7 @@ Medical Image Analysis <b>(MedIA)</b>, 2021 <br>
       author={Liu, Yanbei and Fan, Lianxi and Zhang, Changqing and Zhou, Tao and Xiao, Zhitao and Geng, Lei and Shen, Dinggang},
       journal={Medical Image Analysis},
       volume={69},
-      pages={101953},
+      pages={1--11},
       year={2021},
       publisher={Elsevier}
 }
