@@ -35,10 +35,10 @@ function toggleContent(contentId) {
 }
 </script>
 <body>  
-<ul><li> <u>Yanbei Liu</u>, Xinwen Peng, Xin Wei, Lei Geng, Fang Zhang, Zhitao Xiao, Jerry Chun-Wei Lin. Label-Aware Dual Graph Neural Networks for Multi-Label Fundus Image Classification.  IEEE Journal of Biomedical and Health Informatics (<b>J-BHI</b>), 2024. (<font color='BLUE'> SCI 二区, TOP期刊, IF=7.7 </font>)
+<ul><li> <u>Yanbei Liu</u>, Xinwen Peng, Xin Wei, Lei Geng, Fang Zhang, Zhitao Xiao, Jerry Chun-Wei Lin. Label-Aware Dual Graph Neural Networks for Multi-Label Fundus Image Classification.  IEEE Journal of Biomedical and Health Informatics (<b>J-BHI</b>), 2024. (<font color='BLUE'> Q1, TOP期刊, IF=7.7 </font>)
 </li></ul>
   
-<ul><li> <u>Yanbei Liu</u>, Lu Yu, Shichuan Zhao, Xiao Wang, Lei Geng, Zhitao Xiao, Shuai Ma, Yanwei Pang. Graph neural networks with adaptive confidence discrimination. IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>), 2024. (<font color='BLUE'> SCI 一区, TOP期刊, IF=14.255 </font>)
+<ul><li> <u>Yanbei Liu</u>, Lu Yu, Shichuan Zhao, Xiao Wang, Lei Geng, Zhitao Xiao, Shuai Ma, Yanwei Pang. Graph neural networks with adaptive confidence discrimination. IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>), 2024. (<font color='BLUE'> SCI 一区, TOP期刊, IF=10.21 </font>)
 </li></ul>
 
 <ul><li> <u>Yanbei Liu</u>, Lianxi Fan, Xiao Wang, Zhitao Xiao, Shuai Ma, Yanwei Pang, Jerry Chun-Wei Lin. HGBER: Heterogeneous graph neural network via bidirectional encoding representation. IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>), 2023, 35(7):9340-9351. (<font color='BLUE'> SCI 一区, TOP期刊, IF=14.255 </font>)
