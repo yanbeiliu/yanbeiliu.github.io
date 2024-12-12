@@ -43,7 +43,7 @@ function toggleContent(contentId) {
 
 <ul><li> <u>Yanbei Liu</u>, Lianxi Fan, Xiao Wang, Zhitao Xiao, Shuai Ma, Yanwei Pang, Jerry Chun-Wei Lin. HGBER: Heterogeneous graph neural network via bidirectional encoding representation. IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>), 2023, 35(7):9340-9351. (<font color='BLUE'> SCI 一区, TOP期刊, IF=14.255 </font>)
 <a href="files/HGBER_Heterogeneous_Graph_Neural_Network_With_Bidirectional_Encoding_Representation.pdf" style="color: blue;"><font color="BLUE" >[Paper]</font></a>
-<a href="https://github.com/yanbeiliu/AEMVC" style="color: blue;"><font color="BLUE" >[Code]</font></a>
+<a href="https://github.com/yanbeiliu/HGBER" style="color: blue;"><font color="BLUE" >[Code]</font></a>
 <a href="#" class="custom-link" onclick="toggleContent('liu2023hgber'); return false;">[Bibtex]<br></a>
 <div id="liu2023hgber" class="hidden-content">
     <pre>
@@ -64,6 +64,7 @@ function toggleContent(contentId) {
 </li></ul>
 
 <ul><li> <u>Yanbei Liu</u>, Lianxi Fan, Changqing Zhang, Tao Zhou, Zhitao Xiao, Lei Geng, Dinggang Shen*. Incomplete multi-modal representation learning for Alzheimer’s disease diagnosis. Medical Image Analysis (<b>MedIA</b>), 2021,69: 1-10. (<font color='BLUE'> SCI一区, Top期刊, IF:11.148 </font>)
+<a href="https://github.com/yanbeiliu/AEMVC" style="color: blue;"><font color="BLUE" >[Code]</font></a>
 </li></ul>
 
 <ul><li> <u>Yanbei Liu</u>, Wanjin Shan, Xiao Wang, Zhitao Xiao, Lei Geng, Fang Zhang, Dongdong Du, Yanwei Pang. Cross-scale contrastive triplet networks for graph representation learning. <b>Pattern Recognition</b>, 2024, 145: 1-11. (<font color='BLUE'> SCI 一区, TOP期刊, IF=8.48 </font>)
