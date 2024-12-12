@@ -54,7 +54,7 @@ function toggleContent(contentId) {
 IEEE Transactions on Neural Networks and Learning Systems <b>(TNNLS)</b>, 2023 <br>
 
 <a href="files/HGBER_Heterogeneous_Graph_Neural_Network_With_Bidirectional_Encoding_Representation.pdf" style="color: blue;"><font color="BLUE" >[Paper]</font></a>
-<a href="https://github.com/yanbeiliu/AEMVC" style="color: blue;"><font color="BLUE" >[Code]</font></a>
+<a href="https://github.com/yanbeiliu/HGBER" style="color: blue;"><font color="BLUE" >[Code]</font></a>
 <a href="#" class="custom-link" onclick="toggleContent('content1'); return false;">[Bibtex]<br></a>
 <div id="content1" class="hidden-content">
     <pre>
@@ -137,6 +137,7 @@ IEEE Transaction on Big Data <b>(TBD)</b>, 2023 <br>
 <b>Yanbei Li</b>, Lianxi Fan, Changqing Zhang, Tao Zhou, Zhitao Xiao, Lei Geng, Dinggang Shen <br>
 Medical Image Analysis <b>(MedIA)</b>, 2021 <br>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841520303170" style="color: blue;"><font color="BLUE" >[Paper]</font></a>
+<a href="https://github.com/yanbeiliu/AEMVC" style="color: blue;"><font color="BLUE" >[Code]</font></a>
 <a href="#" class="custom-link" onclick="toggleContent('liu2021incomplete'); return false;">[Bibtex]<br></a>
 <div id="liu2021incomplete" class="hidden-content">
   <pre>
