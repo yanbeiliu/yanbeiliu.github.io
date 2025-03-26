@@ -73,7 +73,7 @@ function toggleContent(contentId) {
 <ul><li> <u>Yanbei Liu</u>, Henan Li, Tao Luo, Changqing Zhang, Zhitao Xiao, Ying Wei, Yaozong Gao, Feng Shi, Fei Shan, Dinggang Shen. Structural attention graph neural network for diagnosis and prediction of COVID-19 severity. IEEE Transaction on Medical Imaging(<b>TMI</b>), 2022, 42(2):557-567.(<font color='BLUE'> SCI 一区, TOP期刊, IF=11.037 </font>)
 </li></ul>
 
-<ul><li> <u>Yanbei Liu</u>, Lianxi Fan, Changqing Zhang, Tao Zhou, Zhitao Xiao, Lei Geng, Dinggang Shen*. Incomplete multi-modal representation learning for Alzheimer’s disease diagnosis. Medical Image Analysis (<b>MedIA</b>), 2021,69: 1-10. (<font color='BLUE'> SCI一区, Top期刊, IF:11.148 </font>)
+<ul><li> <u>Yanbei Liu</u>, Lianxi Fan, Changqing Zhang, Tao Zhou, Zhitao Xiao, Lei Geng, Dinggang Shen. Incomplete multi-modal representation learning for Alzheimer’s disease diagnosis. Medical Image Analysis (<b>MedIA</b>), 2021,69: 1-10. (<font color='BLUE'> SCI一区, Top期刊, IF:11.148 </font>)
 <a href="https://github.com/yanbeiliu/AEMVC" style="color: blue;"><font color="BLUE" >[Code]</font></a>
 </li></ul>
 
