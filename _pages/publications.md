@@ -35,6 +35,16 @@ function toggleContent(contentId) {
 }
 </script>
 <body>  
+
+<ul><li> Die Hu, <u>Yanbei Liu</u>, Xiao Wang, Lei Geng, Fang Zhang, Zhitao Xiao, Jerry Chun-Wei Lin. Multi-information fusion graph convolutional network for cancer driver gene identification. <b>Pattern Recognition</b>, 2025. (<font color='BLUE'> SCI 一区, TOP期刊, IF=7.52 </font>)
+</li></ul>
+    
+<ul><li> Xin Wei, <u>Yanbei Liu</u>, Fang Zhang, Lei Geng, Chunyan Shan, Xiangyu Cao and Zhitao Xiao. MSTNet: Multi-scale spatial-aware transformer with multi-instance learning for diabetic retinopathy classification (<b>MedIA</b>), 2025. (<font color='BLUE'> SCI一区, Top期刊, IF:10.71 </font>)
+</li></ul>
+
+<ul><li> <u>Yanbei Liu</u>, Yu Zhao, Zhitao Xiao, Lei Geng, Xiao Wang, Yanwei Pang, Jerry Chun-Wei Lin. Multi-scale subgraph adversarial contrastive learning.  IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>), 2025. (<font color='BLUE'> SCI 一区, TOP期刊, IF=10.21 </font>)
+</li></ul>
+    
 <ul><li> <u>Yanbei Liu</u>, Xinwen Peng, Xin Wei, Lei Geng, Fang Zhang, Zhitao Xiao, Jerry Chun-Wei Lin. Label-Aware Dual Graph Neural Networks for Multi-Label Fundus Image Classification.  IEEE Journal of Biomedical and Health Informatics (<b>J-BHI</b>), 2024. (<font color='BLUE'> Q1, TOP期刊, IF=7.7 </font>)
 </li></ul>
   
