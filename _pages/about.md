@@ -40,6 +40,7 @@ function toggleContent(contentId) {
 <p>He is an Associate Professor at Tiangong University, China. Before that, he received the Ph.D degree from Tianjin University in Jan. 2017. After finishing the Ph.D degree, he worked as a postdoc researcher at Tianjin University from Jul. 2020 to Jul. 2022, under the supervision of Prof. Yanwei Pang. His research interests are in graph neural networks, machine learning, and intelligent healthcare. He has published 40 peer reviewed papers in top venues in AI.  <br></p>
 
 <h1 style="color: #FF0000;">Latest News</h1>
+<ul><li><p> [05/2025] One paper was accepted by <b>ICML</b>.</p></li></ul>
 <ul><li><p> [03/2025] One paper was accepted by <b>PR</b>.</p></li></ul>
 <ul><li><p> [02/2025] One paper was accepted by <b>MedIA</b>.</p></li></ul>
 <ul><li><p> [02/2025] One paper was accepted by <b>IEEE TNNLS</b>.</p></li></ul>
