@@ -36,6 +36,9 @@ function toggleContent(contentId) {
 </script>
 <body>  
 
+<ul><li> <u>Yanbei Liu</u>, Chongxu Wang, Zhitao Xiao, Lei Geng, Yanwei Pang. HGOT: Self-supervised Heterogeneous Graph Neural Network with Optimal Transport. <b> International Conference on Machine Learning(ICML)</b>, 2025. 
+</li></ul>
+
 <ul><li> Die Hu, <u>Yanbei Liu</u>, Xiao Wang, Lei Geng, Fang Zhang, Zhitao Xiao, Jerry Chun-Wei Lin. Multi-information fusion graph convolutional network for cancer driver gene identification. <b>Pattern Recognition</b>, 2025. (<font color='BLUE'> SCI 一区, TOP期刊, IF=7.52 </font>)
 </li></ul>
     
