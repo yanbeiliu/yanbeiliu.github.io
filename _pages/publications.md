@@ -36,7 +36,7 @@ function toggleContent(contentId) {
 </script>
 <body>  
 
-<ul><li> <u>Yanbei Liu</u>, Chongxu Wang, Zhitao Xiao, Lei Geng, Yanwei Pang. HGOT: Self-supervised Heterogeneous Graph Neural Network with Optimal Transport.  International Conference on Machine Learning <b>(ICML)</b>, 2025. (<font color='BLUE'> CCF-A会议 </font>)
+<ul><li> <u>Yanbei Liu</u>, Chongxu Wang, Zhitao Xiao, Lei Geng, Yanwei Pang, Xiao Wang. HGOT: Self-supervised Heterogeneous Graph Neural Network with Optimal Transport.  International Conference on Machine Learning <b>(ICML)</b>, 2025. (<font color='BLUE'> CCF-A会议 </font>)
 <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=JuNVa_IAAAAJ" style="color: blue;"><font color="BLUE" >[Paper]</font></a>
 <a href="https://github.com/yanbeiliu/HGOT-ICML2025" style="color: blue;"><font color="BLUE" >[Code]</font></a>
 <a href="#" class="custom-link" onclick="toggleContent('liu2023self'); return false;">[Bibtex]<br></a>
